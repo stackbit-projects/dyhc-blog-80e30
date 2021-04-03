@@ -30,6 +30,10 @@ seo:
     - name: 'twitter:description'
       value: |
         A true artist and creative for the digital age
+    - name: 'og:image'
+      value: /images/2jUuauy.jpg
+      keyName: property
+      relativeUrl: true
 layout: post
 thumb_img_path: images/2jUuauy.jpg
 ---
