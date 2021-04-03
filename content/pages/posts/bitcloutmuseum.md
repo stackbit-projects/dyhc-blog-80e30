@@ -16,7 +16,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Magna etiam sed lorem ipsum dolor amet
+      value: bitcloutmuseum - DO YOU HAVE CLOUT
       keyName: property
     - name: 'og:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
