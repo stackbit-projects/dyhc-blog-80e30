@@ -26,11 +26,7 @@ seo:
     - name: 'twitter:title'
       value: bitcloutmuseum - DO YOU HAVE CLOUT
     - name: 'twitter:description'
-      value: >-
-        The idea behind the BitClout Museum is to immortalize the most iconic
-        moments and individuals in BitClout history. As the platform grow,
-        unexpected events will happen and we will be there to create incredible
-        artworks to showcase these events.
+      value: Creating and showcasing the most iconic BitClout inspired artworks
     - name: 'og:image'
       value: /images/VhGQFHh%20(1).gif
       keyName: property
