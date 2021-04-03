@@ -10,7 +10,7 @@ excerpt: >-
   information as it appears on IRS Form 8946
 date: '2021-03-31'
 seo:
-  title: Magna etiam sed lorem ipsum dolor amet
+  title: HPaulson - DO YOU HAVE CLOUT
   description: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
   extra:
     - name: 'og:type'
