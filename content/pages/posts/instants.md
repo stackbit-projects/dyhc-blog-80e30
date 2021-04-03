@@ -35,7 +35,7 @@ seo:
       keyName: property
       relativeUrl: true
 layout: post
-thumb_img_path: images/2jUuauy.jpg
+thumb_img_path: images/ABajQ7P.jpg
 ---
 [instants at BitClout.com](https://bitclout.com/u/instants)
 
