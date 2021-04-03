@@ -41,7 +41,7 @@ sections:
     has_more_link: true
     more_link_text: Read more
 seo:
-  title: Stackbit Vanilla Theme
+  title: DO YOU HAVE CLOUT
   description: The preview of the Vanilla theme
   extra:
     - name: 'og:type'
