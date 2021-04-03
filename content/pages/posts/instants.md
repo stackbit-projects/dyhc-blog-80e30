@@ -4,9 +4,9 @@ subtitle: Images that changed the world.
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern
 excerpt: >-
-  I am releasing art often throughout the day, often coupled with chapters from
-  my book "A Path Forward." Around the clock working to synergize many such
-  things as CloutPhoto, CoinChart, BitCloutMusic next...
+  Instants posts images that change the world. Moments posted include the first
+  BTC transaction, the last picture of the WTC, and this memorable instant from
+  the Crash of 1929
 date: '2021-04-03'
 seo:
   title: WilliamLaurent - DO YOU HAVE CLOUT
