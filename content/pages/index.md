@@ -23,8 +23,10 @@ sections:
       ### Want to be featured?
 
 
-      Are you creative? Do you have talent? Building something fantastic? [Tell
-      us why we should feature you and have our shark investors buy your
+      Are you creative? Do you have talent? Building something fantastic?
+
+
+      [Tell us why we should feature you and have our shark investors buy your
       coin.](https://docs.google.com/forms/d/e/1FAIpQLSfVy-OJeS9ezFlXdQkFwgokAxmcyBEUBjdd7kJ4F4\_1\_zm-VA/viewform)
   - title: Recent Posts
     section_id: posts
