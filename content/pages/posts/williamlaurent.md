@@ -9,7 +9,7 @@ excerpt: >-
   things as CloutPhoto, CoinChart, BitCloutMusic next...
 date: '2021-04-02'
 seo:
-  title: Magna etiam sed lorem ipsum dolor amet
+  title: WilliamLaurent - DO YOU HAVE CLOUT
   description: |
     A true artist and creative for the digital age
   extra:
