@@ -20,7 +20,7 @@ sections:
       a mix of Shark Tank and America's Got Talent.
 
 
-      ## Want to be featured?
+      ### Want to be featured?
 
 
       Are you creative? Do you have talent? Building something fantastic?
