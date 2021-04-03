@@ -37,9 +37,8 @@ seo:
 layout: post
 thumb_img_path: images/2jUuauy.jpg
 ---
+[WilliamLaurent at BitClout.com](https://bitclout.com/u/williamlaurent)
+
 > I am releasing art often throughout the day, often coupled with chapters from my book "A Path Forward." Around the clock working to synergize many such things as CloutPhoto, CoinChart, BitCloutMusic next...
 
-
-
 ![](/images/2jUuauy.jpg)
-
