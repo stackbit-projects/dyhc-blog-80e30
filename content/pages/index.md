@@ -18,6 +18,16 @@ sections:
       best profiles on BitClout and features them daily across BitClout,
       [Discord](https://discord.com/invite/bitclout), and this site. It is like
       a mix of Shark Tank and America's Got Talent.
+
+
+      ## Want to be featured?
+
+
+      Are you creative? Do you have talent? Building something fantastic?
+
+
+      [Tell us why we should feature you and have our shark investors buy your
+      coin.](https://docs.google.com/forms/d/e/1FAIpQLSfVy-OJeS9ezFlXdQkFwgokAxmcyBEUBjdd7kJ4F4\_1\_zm-VA/viewform)
   - title: Recent Posts
     section_id: posts
     type: section_posts
