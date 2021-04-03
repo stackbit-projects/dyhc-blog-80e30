@@ -21,13 +21,7 @@
     },
     "footer": {
         "has_social": true,
-        "social_links": [
-            {
-                "label": "DEV",
-                "url": "https://dev.to/",
-                "new_window": true
-            }
-        ]
+        "social_links": []
     },
     "domain": "https://dyhc-blog-80e30.netlify.app"
 }
