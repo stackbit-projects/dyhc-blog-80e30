@@ -10,8 +10,10 @@ excerpt: >-
 date: '2021-04-03'
 seo:
   title: WilliamLaurent - DO YOU HAVE CLOUT
-  description: |
-    A true artist and creative for the digital age
+  description: >
+    Instants posts images that change the world. Moments posted include the
+    first BTC transaction, the last picture of the WTC, and this memorable
+    instant from the Crash of 1929
   extra:
     - name: 'og:type'
       value: article
