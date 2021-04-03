@@ -12,7 +12,7 @@ sections:
     section_id: intro
     type: section_content
     content: >
-      [**DO YOU HAVE CLOUT**](https://bitclout.com/u/doyouhaveclout) is a
+      ### [**DO YOU HAVE CLOUT**](https://bitclout.com/u/doyouhaveclout) is a
       volunteer project under [bitcloutpulse](https://bitcloutpulse.com), the
       Bloomberg for [BitClout](https://bitclout.com), which collects all the
       best profiles on BitClout and features them daily across BitClout,
