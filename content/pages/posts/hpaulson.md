@@ -11,7 +11,7 @@ excerpt: >-
 date: '2021-03-31'
 seo:
   title: HPaulson - DO YOU HAVE CLOUT
-  description: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+  description: A technical force "hacking" the BitClout API
   extra:
     - name: 'og:type'
       value: article
