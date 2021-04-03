@@ -28,7 +28,7 @@ seo:
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 layout: post
 thumb_img_path: images/2jUuauy.jpg
-subtitle: 'Creating '
+subtitle: Creating and showcasing the most iconic BitClout inspired artworks
 ---
 > I am releasing art often throughout the day, often coupled with chapters from my book "A Path Forward." Around the clock working to synergize many such things as CloutPhoto, CoinChart, BitCloutMusic next...
 
