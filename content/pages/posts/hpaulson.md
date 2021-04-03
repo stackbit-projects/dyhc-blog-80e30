@@ -28,6 +28,10 @@ seo:
       value: HPaulson - DO YOU HAVE CLOUT
     - name: 'twitter:description'
       value: A technical force "hacking" the BitClout API
+    - name: 'og:image'
+      value: /images/jWfcqNJ%20(1).gif
+      keyName: property
+      relativeUrl: true
 layout: post
 thumb_img_path: images/jWfcqNJ (1).gif
 ---
