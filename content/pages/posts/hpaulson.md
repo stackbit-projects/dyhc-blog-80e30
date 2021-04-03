@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Magna etiam sed lorem ipsum dolor amet
+      value: HPaulson - DO YOU HAVE CLOUT
       keyName: property
     - name: 'og:description'
       value: A technical force "hacking" the BitClout API
