@@ -25,7 +25,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Magna etiam sed lorem ipsum dolor amet
+      value: HPaulson - DO YOU HAVE CLOUT
     - name: 'twitter:description'
       value: A technical force "hacking" the BitClout API
 layout: post
