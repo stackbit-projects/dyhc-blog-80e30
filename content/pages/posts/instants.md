@@ -22,8 +22,10 @@ seo:
       value: WilliamLaurent - DO YOU HAVE CLOUT
       keyName: property
     - name: 'og:description'
-      value: |
-        A true artist and creative for the digital age
+      value: >-
+        Instants posts images that change the world. Moments posted include the
+        first BTC transaction, the last picture of the WTC, and this memorable
+        instant from the Crash of 1929
       keyName: property
     - name: 'twitter:card'
       value: summary
