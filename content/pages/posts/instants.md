@@ -1,6 +1,6 @@
 ---
 title: instants
-subtitle: A true artist and creative for the digital age
+subtitle: Images that changed the world.
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern
 excerpt: >-
