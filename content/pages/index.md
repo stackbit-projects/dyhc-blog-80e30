@@ -42,7 +42,11 @@ sections:
     more_link_text: Read more
 seo:
   title: DO YOU HAVE CLOUT
-  description: The preview of the Vanilla theme
+  description: >-
+    DO YOU HAVE CLOUT is a volunteer project under bitcloutpulse, the Bloomberg
+    for BitClout, which collects all the best profiles on BitClout and features
+    them daily across BitClout, Discord, and this site. It is like a mix of
+    Shark Tank and America's Got Talent.
   extra:
     - name: 'og:type'
       value: website
