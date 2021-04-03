@@ -10,7 +10,7 @@ excerpt: >-
 date: '2021-03-31'
 seo:
   title: bitcloutmuseum - DO YOU HAVE CLOUT
-  description: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+  description: Creating and showcasing the most iconic BitClout inspired artworks
   extra:
     - name: 'og:type'
       value: article
