@@ -31,6 +31,6 @@ seo:
 layout: post
 thumb_img_path: images/VhGQFHh (1).gif
 ---
-> The idea behind the BitClout Museum is to immortalize the most iconic moments and individuals in BitClout history. As the platform grow, unexpected events will happen and we will be there to create incredible artworks to showcase these events.
+> I’m actively reverse engineering BigClout.com to provide documentation regarding the development team’s node and its API, and am using such to develop tools for BitClout such as a US tax CLI to generate BitClout trade information as it appears on IRS Form 8946
 
-![](/images/VhGQFHh%20\(1\).gif)
+![](https://preview--dyhc-blog-80e30.stackbit.dev/images/jWfcqNJ%20\(1\).gif)
