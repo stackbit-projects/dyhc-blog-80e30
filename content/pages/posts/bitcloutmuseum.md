@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
 layout: post
-thumb_img_path: images/2jUuauy.jpg
+thumb_img_path: images/VhGQFHh (1).gif
 subtitle: Creating and showcasing the most iconic BitClout inspired artworks
 ---
 > The idea behind the BitClout Museum is to immortalize the most iconic moments and individuals in BitClout history. As the platform grow, unexpected events will happen and we will be there to create incredible artworks to showcase these events.
