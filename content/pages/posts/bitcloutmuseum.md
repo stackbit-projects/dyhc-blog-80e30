@@ -27,6 +27,10 @@ seo:
       value: Magna etiam sed lorem ipsum dolor amet
     - name: 'twitter:description'
       value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+    - name: 'og:image'
+      value: /images/VhGQFHh%20(1).gif
+      keyName: property
+      relativeUrl: true
 layout: post
 thumb_img_path: images/VhGQFHh (1).gif
 subtitle: Creating and showcasing the most iconic BitClout inspired artworks
