@@ -32,7 +32,11 @@ seo:
     - name: 'twitter:title'
       value: Magna etiam sed lorem ipsum dolor amet
     - name: 'twitter:description'
-      value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+      value: >-
+        The idea behind the BitClout Museum is to immortalize the most iconic
+        moments and individuals in BitClout history. As the platform grow,
+        unexpected events will happen and we will be there to create incredible
+        artworks to showcase these events.
     - name: 'og:image'
       value: /images/VhGQFHh%20(1).gif
       keyName: property
