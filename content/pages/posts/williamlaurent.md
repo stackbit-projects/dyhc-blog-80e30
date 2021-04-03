@@ -10,7 +10,8 @@ excerpt: >-
 date: '2021-04-02'
 seo:
   title: Magna etiam sed lorem ipsum dolor amet
-  description: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+  description: |
+    A true artist and creative for the digital age
   extra:
     - name: 'og:type'
       value: article
