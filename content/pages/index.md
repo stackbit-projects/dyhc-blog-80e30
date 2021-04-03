@@ -11,13 +11,11 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >+
-      ##### [DO YOU HAVE CLOUT](https://bitclout.com/u/doyouhaveclout) is a
-      volunteer project under [bitcloutpulse](https://bitcloutpulse.com), the
-      Bloomberg for [BitClout](https://bitclout.com), which collects all the
-      best profiles on BitClout and features them daily across BitClout,
-      [Discord](https://discord.com/invite/bitclout), and this site. It is like
-      a mix of Shark Tank and America's Got Talent.
+    content: >
+      ##### DO YOU HAVE CLOUT is a volunteer project under bitcloutpulse, the
+      Bloomberg for BitClout, which collects all the best profiles on BitClout
+      and features them daily across BitClout, Discord, and this site. It is
+      like a mix of Shark Tank and America's Got Talent.
 
 
       ### Want to be featured?
@@ -37,9 +35,6 @@ sections:
       CLOUT](https://bitclout.com/u/doyouhaveclout) coins totalling over $250 in
       value an opportunity to be notified which creator we are going to feature
       before we share it with everyone else.
-
-
-
   - title: Recent Posts
     section_id: posts
     type: section_posts
