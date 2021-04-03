@@ -17,7 +17,8 @@
                 "label": "bitcloutpulse",
                 "new_window": false,
                 "no_follow": false,
-                "type": "action"
+                "type": "action",
+                "url": "htp"
             }
         ],
         "title": "DO YOU HAVE CLOUT"
