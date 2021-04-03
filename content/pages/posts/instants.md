@@ -32,8 +32,10 @@ seo:
     - name: 'twitter:title'
       value: instants - DO YOU HAVE CLOUT
     - name: 'twitter:description'
-      value: |
-        A true artist and creative for the digital age
+      value: >-
+        Instants posts images that change the world. Moments posted include the
+        first BTC transaction, the last picture of the WTC, and this memorable
+        instant from the Crash of 1929
     - name: 'og:image'
       value: /images/ABajQ7P.jpg
       keyName: property
