@@ -3,9 +3,10 @@ title: bitcloutmuseum
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern
 excerpt: >-
-  I am releasing art often throughout the day, often coupled with chapters from
-  my book "A Path Forward." Around the clock working to synergize many such
-  things as CloutPhoto, CoinChart, BitCloutMusic next...
+  The idea behind the BitClout Museum is to immortalize the most iconic moments
+  and individuals in BitClout history. As the platform grow, unexpected events
+  will happen and we will be there to create incredible artworks to showcase
+  these events.
 date: '2021-03-31'
 seo:
   title: Magna etiam sed lorem ipsum dolor amet
