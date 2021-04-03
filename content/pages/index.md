@@ -4,7 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: Do you have what it takes?
-    subtitle: '### This is a super-cool hero subhead.'
+    subtitle: |
+      ### Impress the judges and get the clout you deserve!
     image: images/avatar.png
     image_alt: Author avatar
   - title: Text
