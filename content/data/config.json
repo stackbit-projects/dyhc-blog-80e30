@@ -23,7 +23,7 @@
             {
                 "label": "Discord",
                 "url": "https://discord.com/invite/bitclout",
-                "new_window": false,
+                "new_window": true,
                 "no_follow": false,
                 "type": "action"
             }
