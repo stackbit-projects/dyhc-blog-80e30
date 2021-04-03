@@ -53,5 +53,6 @@
                 "new_window": true
             }
         ]
-    }
+    },
+    "domain": "https://dyhc-blog-80e30.netlify.app"
 }
