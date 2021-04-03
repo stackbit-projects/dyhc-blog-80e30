@@ -35,6 +35,8 @@ seo:
 layout: post
 thumb_img_path: images/jWfcqNJ (1).gif
 ---
+[HPaulson at BitClout.com](https://bitclout.com/u/hpaulson)
+
 > I’m actively reverse engineering BitClout.com to provide documentation regarding the development team’s node and its API, and am using such to develop tools for BitClout such as a US tax CLI to generate BitClout trade information as it appears on IRS Form 8946
 
 ![](https://preview--dyhc-blog-80e30.stackbit.dev/images/jWfcqNJ%20\(1\).gif)
