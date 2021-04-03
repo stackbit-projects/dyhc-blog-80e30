@@ -20,7 +20,7 @@ seo:
       value: Magna etiam sed lorem ipsum dolor amet
       keyName: property
     - name: 'og:description'
-      value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+      value: A technical force "hacking" the BitClout API
       keyName: property
     - name: 'twitter:card'
       value: summary
