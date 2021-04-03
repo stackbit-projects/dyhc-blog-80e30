@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Magna etiam sed lorem ipsum dolor amet
+      value: bitcloutmuseum - DO YOU HAVE CLOUT
     - name: 'twitter:description'
       value: >-
         The idea behind the BitClout Museum is to immortalize the most iconic
