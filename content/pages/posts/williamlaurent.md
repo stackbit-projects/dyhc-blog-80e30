@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Magna etiam sed lorem ipsum dolor amet
+      value: WilliamLaurent - DO YOU HAVE CLOUT
       keyName: property
     - name: 'og:description'
       value: |
