@@ -11,7 +11,7 @@ sections:
   - title: Text
     section_id: intro
     type: section_content
-    content: >
+    content: >+
       ##### [DO YOU HAVE CLOUT](https://bitclout.com/u/doyouhaveclout) is a
       volunteer project under [bitcloutpulse](https://bitcloutpulse.com), the
       Bloomberg for [BitClout](https://bitclout.com), which collects all the
@@ -27,7 +27,17 @@ sections:
 
 
       [Tell us why we should feature you and have our shark investors buy your
-      coin.](https://docs.google.com/forms/d/e/1FAIpQLSfVy-OJeS9ezFlXdQkFwgokAxmcyBEUBjdd7kJ4F4\_1\_zm-VA/viewform)
+      coin](https://docs.google.com/forms/d/e/1FAIpQLSfVy-OJeS9ezFlXdQkFwgokAxmcyBEUBjdd7kJ4F4\_1\_zm-VA/viewform).
+
+
+      ### Want to get the scoop before everyone else?
+
+
+      We provide coin holders of [DO YOU HAVE
+      CLOUT](https://bitclout.com/u/doyouhaveclout) coins totalling over $250 in
+      value an opportunity to be notified which creator we are going to feature
+      before we share it with everyone else.
+
   - title: Recent Posts
     section_id: posts
     type: section_posts
