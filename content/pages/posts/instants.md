@@ -37,8 +37,8 @@ seo:
 layout: post
 thumb_img_path: images/2jUuauy.jpg
 ---
-[WilliamLaurent at BitClout.com](https://bitclout.com/u/williamlaurent)
+[instants at BitClout.com](https://bitclout.com/u/instants)
 
-> I am releasing art often throughout the day, often coupled with chapters from my book "A Path Forward." Around the clock working to synergize many such things as CloutPhoto, CoinChart, BitCloutMusic next...
+> Instants posts images that change the world. Moments posted include the first BTC transaction, the last picture of the WTC, and this memorable instant from the Crash of 1929
 
-![](/images/2jUuauy.jpg)
+![](/images/ABajQ7P.jpg)
