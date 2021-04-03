@@ -27,7 +27,7 @@ seo:
     - name: 'twitter:title'
       value: Magna etiam sed lorem ipsum dolor amet
     - name: 'twitter:description'
-      value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+      value: A technical force "hacking" the BitClout API
 layout: post
 thumb_img_path: images/jWfcqNJ (1).gif
 ---
