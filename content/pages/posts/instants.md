@@ -35,7 +35,7 @@ seo:
       value: |
         A true artist and creative for the digital age
     - name: 'og:image'
-      value: /images/2jUuauy.jpg
+      value: /images/ABajQ7P.jpg
       keyName: property
       relativeUrl: true
 layout: post
