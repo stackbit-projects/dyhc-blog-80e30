@@ -12,6 +12,13 @@
                 "label": "BitClout Profile",
                 "url": "https://bitclout.com/u/doyouhaveclout",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "title": "DO YOU HAVE CLOUT"
