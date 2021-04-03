@@ -6,7 +6,7 @@ sections:
     title: Do you have what it takes?
     subtitle: |
       ### Impress the judges and get the clout you deserve!
-    image: images/avatar.png
+    image: images/1_Ft48nrhgw7M-j2lgf1L5JQ.jpeg
     image_alt: Author avatar
   - title: Text
     section_id: intro
