@@ -31,4 +31,7 @@ layout: post
 ---
 > I am releasing art often throughout the day, often coupled with chapters from my book "A Path Forward." Around the clock working to synergize many such things as CloutPhoto, CoinChart, BitCloutMusic next...
 
+
+
 ![](/images/2jUuauy.jpg)
+
