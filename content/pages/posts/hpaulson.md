@@ -8,7 +8,7 @@ excerpt: >-
   and individuals in BitClout history. As the platform grow, unexpected events
   will happen and we will be there to create incredible artworks to showcase
   these events.
-date: '2021-03-31'
+date: '2021-03-30'
 seo:
   title: Magna etiam sed lorem ipsum dolor amet
   description: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
