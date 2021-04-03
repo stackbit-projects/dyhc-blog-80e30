@@ -10,7 +10,8 @@
             },
             {
                 "label": "BitClout Profile",
-                "url": "https://bitclout.com/u/doyouhaveclout"
+                "url": "https://bitclout.com/u/doyouhaveclout",
+                "new_window": true
             }
         ],
         "title": "DO YOU HAVE CLOUT"
