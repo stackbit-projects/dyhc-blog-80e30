@@ -20,7 +20,8 @@ seo:
       value: Magna etiam sed lorem ipsum dolor amet
       keyName: property
     - name: 'og:description'
-      value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+      value: |
+        A true artist and creative for the digital age
       keyName: property
     - name: 'twitter:card'
       value: summary
