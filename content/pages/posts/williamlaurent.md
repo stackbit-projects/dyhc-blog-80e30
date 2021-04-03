@@ -28,7 +28,8 @@ seo:
     - name: 'twitter:title'
       value: Magna etiam sed lorem ipsum dolor amet
     - name: 'twitter:description'
-      value: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
+      value: |
+        A true artist and creative for the digital age
 layout: post
 thumb_img_path: images/2jUuauy.jpg
 ---
