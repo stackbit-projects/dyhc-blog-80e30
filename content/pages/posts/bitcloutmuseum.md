@@ -6,7 +6,7 @@ excerpt: >-
   I am releasing art often throughout the day, often coupled with chapters from
   my book "A Path Forward." Around the clock working to synergize many such
   things as CloutPhoto, CoinChart, BitCloutMusic next...
-date: '2021-04-02'
+date: '2021-03-31'
 seo:
   title: Magna etiam sed lorem ipsum dolor amet
   description: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
