@@ -19,6 +19,13 @@
                 "no_follow": false,
                 "type": "action",
                 "url": "https://bitcloutpulse.com"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "new_window": false,
+                "no_follow": false,
+                "type": "action"
             }
         ],
         "title": "DO YOU HAVE CLOUT"
