@@ -9,7 +9,7 @@ excerpt: >-
   these events.
 date: '2021-03-31'
 seo:
-  title: Magna etiam sed lorem ipsum dolor amet
+  title: bitcloutmuseum - DO YOU HAVE CLOUT
   description: Phasellus in ante vitae nibh porttitor tempus vitae ut ante
   extra:
     - name: 'og:type'
