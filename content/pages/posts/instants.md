@@ -51,22 +51,22 @@ thumb_img_path: images/ABajQ7P.jpg
 
 ### Q\&A with instants
 
-**Q: When did you join BitClout, and why?**
+*   **Q: When did you join BitClout, and why?**
 
-A: I've joined bitclout March 17 following Twitter hype.
+*   A: I've joined bitclout March 17 following Twitter hype.
 
-**Q: How long have you been in this “area”?**
+*   **Q: How long have you been in this “area”?**
 
-A: I'm in this area since day one, outside of bitclout
+*   A: I'm in this area since day one, outside of bitclout
 
-**Q: Do you have a following outside of BitClout?**
+*   **Q: Do you have a following outside of BitClout?**
 
-A: I've 85k on YouTube but it's not a pictures channel.
+*   A: I've 85k on YouTube but it's not a pictures channel.
 
-**Q: How will you be working on expanding your reach here? What plans do you have for your content and profile?**
+*   **Q: How will you be working on expanding your reach here? What plans do you have for your content and profile?**
 
-A: I post high quality content with good captions, following/liking people who could be interested in my work. Culture is value.
+*   A: I post high quality content with good captions, following/liking people who could be interested in my work. Culture is value.
 
-**Q: Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?**
+*   **Q: Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?**
 
-A: I'm holding my coin with my main account (naruto) and i want to hold that long term, maybe sell a little bit if $BitClout price will rise
+*   A: I'm holding my coin with my main account (naruto) and i want to hold that long term, maybe sell a little bit if $BitClout price will rise
