@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: WilliamLaurent - DO YOU HAVE CLOUT
+      value: instants - DO YOU HAVE CLOUT
     - name: 'twitter:description'
       value: |
         A true artist and creative for the digital age
