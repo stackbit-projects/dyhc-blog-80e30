@@ -5,10 +5,6 @@
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
-                "url": "/"
-            },
-            {
                 "label": "BitClout Profile",
                 "url": "https://bitclout.com/u/doyouhaveclout",
                 "new_window": true
