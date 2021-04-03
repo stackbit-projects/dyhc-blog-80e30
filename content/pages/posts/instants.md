@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: WilliamLaurent - DO YOU HAVE CLOUT
+      value: instants - DO YOU HAVE CLOUT
       keyName: property
     - name: 'og:description'
       value: >-
