@@ -103,6 +103,8 @@ thumb_img_path: images/ABajQ7P.jpg
 > Potentially doing a smart contract ISA with my existing revenue streams.
 > Active contributor to the protocol and thought leader.
 
+<br>
+
 **Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?**
 
 > If you can tell from the % of my own coin I own, I’ve been buying more of my own coin everyday because I’m here for the long game. As I’m building my company on top of bitclout, I will need liquidity to onboard a VP of engineering  (considering 
