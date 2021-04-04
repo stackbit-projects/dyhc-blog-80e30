@@ -63,7 +63,7 @@ thumb_img_path: images/ABajQ7P.jpg
 
 <br>
 
-**Q: Do you have a following outside of BitClout?**
+**Do you have a following outside of BitClout?**
 
 A: I've 85k on YouTube but it's not a pictures channel.
 
