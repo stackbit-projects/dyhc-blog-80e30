@@ -51,6 +51,8 @@ thumb_img_path: images/ABajQ7P.jpg
 
 ### Questions & Answers
 
+\<br>
+
 #### When did you join BitClout, and why?
 
 > I joined 3-4 days ago because simply put I live for the creator economy. Adopting new social protocols early on can provide once in a decade opportunities.
