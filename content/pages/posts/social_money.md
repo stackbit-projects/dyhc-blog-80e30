@@ -41,7 +41,7 @@ seo:
       keyName: property
       relativeUrl: true
 layout: post
-thumb_img_path: images/ABajQ7P.jpg
+thumb_img_path: images/Screen_Shot_2021-04-03_at_4.50.39_PM.png
 ---
 ##### Social_Money is building software bridging between the digital/crypto world and the real world. Sharing a long history in the crypto space and financial arbitrage, Social_Money has great insight into what makes crypto tick.
 
