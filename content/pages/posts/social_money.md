@@ -65,7 +65,7 @@ thumb_img_path: images/ABajQ7P.jpg
 
 **Do you have a following outside of BitClout?**
 
-A: I've 85k on YouTube but it's not a pictures channel.
+I've 85k on YouTube but it's not a pictures channel.
 
 **Q: How will you be working on expanding your reach here? What plans do you have for your content and profile?**
 
