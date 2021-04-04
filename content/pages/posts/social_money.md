@@ -75,11 +75,15 @@ thumb_img_path: images/ABajQ7P.jpg
 
 **Do you have a following outside of BitClout?**
 
-> It’s not huge but I do. I prefer to keep this pseudo-anonymous for now until Bitclout has gotten closer to product market fit. 
+> It’s not huge but I do. I prefer to keep this pseudo-anonymous for now until Bitclout has gotten closer to product market fit.
 >
-> Personally I have millions of streams as a singer/songwriter on spotify. Yesterday I posted my first Tik Tok and got hundreds of thousands of views before Tik Tok suspended me for promoting a “scam”. 
+> Personally I have millions of streams as a singer/songwriter on spotify. Yesterday I posted my first Tik Tok and got hundreds of thousands of views before Tik Tok suspended me for promoting a “scam”.
 >
 > On top of that I was recently funded by soundcloud to build a GenZ musician focused influencer house. The 6 creators I manage get 30m monthly impressions.
+
+****![](/images/Screen_Shot\_2021-04-03\_at\_5.01.37\_PM.png)
+
+\<br>
 
 **How will you be working on expanding your reach here? What plans do you have for your content and profile?**
 
