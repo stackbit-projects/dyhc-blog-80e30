@@ -23,9 +23,10 @@ seo:
       keyName: property
     - name: 'og:description'
       value: >-
-        Instants posts images that change the world. Moments posted include the
-        first BTC transaction, the last picture of the WTC, and this memorable
-        instant from the Crash of 1929
+        Social_Money is building software bridging between the digital/crypto
+        world and the real world. Sharing a long history in the crypto space and
+        financial arbitrage, Social_Money has great insight into what makes
+        crypto tick.
       keyName: property
     - name: 'twitter:card'
       value: summary
