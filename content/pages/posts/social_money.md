@@ -4,9 +4,9 @@ subtitle: building the gateway from the real world -> social money
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern
 excerpt: >-
-  Instants posts images that change the world. Moments posted include the first
-  BTC transaction, the last picture of the WTC, and this memorable instant from
-  the Crash of 1929
+  Social_Money is building software bridging between the digital/crypto world
+  and the real world. Sharing a long history in the crypto space and financial
+  arbitrage, Social_Money has great insight into what makes crypto tick.
 date: '2021-04-04'
 seo:
   title: instants - DO YOU HAVE CLOUT
