@@ -89,6 +89,8 @@ thumb_img_path: images/ABajQ7P.jpg
 
 > So far I’ve been able to grow without using real life networks by being an active thought leader. Eventually I will bring in my existing communities (like my discord with a couple thousand members).
 
+<br>
+
 **What plans do you have for your content and profile?**
 
 > Right now one big thing I’m considering is turning the @social_money page into the hub for my businesses. This means instead of charging subscriptions, holders of my coin will get access to software that I am building on top of the Bitclout L1.
