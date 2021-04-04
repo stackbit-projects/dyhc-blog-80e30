@@ -61,24 +61,19 @@ thumb_img_path: images/ABajQ7P.jpg
 
 > I bought my first bitcoin in 2014, but I used it for transactional purposes and it wasn’t until 2016 did I become more active when I founded the financial algorithm programming club @ my university. In 2017 I realized there was a 35% spread in usd/krw priced bitcoin so I took out the rest of my student loans and starting flying between Korea and US with bags full of money doing what I coined as “airbnbatrage”. I had found out Korean citizens were allowed $50k of annual remittance, so I would stay with an airbnb super host, send them bitcoin, and we’d go to the bank together and withdraw it in KRW. I would fly back with suitcases full of yuan that I would convert back into USD, then back into BTC and repeat the process. After several trips I scaled it to 5 more countries, legitimized the process by using stat arb, and eventually sold the company to a prominent Chicago based cryptocurrency prop shop.
 
-
+![](/images/Screen_Shot\_2021-04-03\_at\_4.50.39\_PM.png)
 
 > 2017 I was brought in by lobbyists to help Congress draft bills regarding the adoption and regulation of blockchain. I worked particularly close with the House Financial Services Committee and the ranking chairman. On top of that I drafted one of the first NAL’s for the SEC based around something I was building at the time called CloutToken. The concept was that you could buy a creator’s token to get access to exclusive content and benefits.
->
 
 ![](/images/Screen_Shot\_2021-04-03\_at\_4.52.40\_PM.png)
 
 > In 2020 I launched app.matter.online and scaled it to 150k+ users, while helping 50k musicians earn $1m+ during covid from digital subscriptions and products.
 
-
-
-> In 2021 I built a low-code mvp for 
+> In 2021 I built a low-code mvp for
 >
 > [@getkuudos](https://twitter.com/getkuudos)
 >
->  and onboarded a 1m follower influencer. The focus is to build and dominate what I call mid funnel fabric, turning existing communities into multi-platform ecosystems. Within 2 weeks we won a competition with Mr.Beast for $25,000, amassed 10k users on our waitlist, piqued VC interest, and have onboarded our first customers paying $130 a month for the software.
-
-
+> and onboarded a 1m follower influencer. The focus is to build and dominate what I call mid funnel fabric, turning existing communities into multi-platform ecosystems. Within 2 weeks we won a competition with Mr.Beast for $25,000, amassed 10k users on our waitlist, piqued VC interest, and have onboarded our first customers paying $130 a month for the software.
 
 <br>
 
