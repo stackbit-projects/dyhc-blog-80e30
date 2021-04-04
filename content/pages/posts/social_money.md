@@ -34,9 +34,10 @@ seo:
       value: Social_Money - DO YOU HAVE CLOUT
     - name: 'twitter:description'
       value: >-
-        Instants posts images that change the world. Moments posted include the
-        first BTC transaction, the last picture of the WTC, and this memorable
-        instant from the Crash of 1929
+        Social_Money is building software bridging between the digital/crypto
+        world and the real world. Sharing a long history in the crypto space and
+        financial arbitrage, Social_Money has great insight into what makes
+        crypto tick.
     - name: 'og:image'
       value: /images/Screen_Shot_2021-04-03_at_4.50.39_PM.png
       keyName: property
