@@ -67,7 +67,7 @@ thumb_img_path: images/ABajQ7P.jpg
 
 I've 85k on YouTube but it's not a pictures channel.
 
-**Q: How will you be working on expanding your reach here? What plans do you have for your content and profile?**
+**How will you be working on expanding your reach here? What plans do you have for your content and profile?**
 
 A: I post high quality content with good captions, following/liking people who could be interested in my work. Culture is value.
 
