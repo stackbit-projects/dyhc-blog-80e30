@@ -47,6 +47,8 @@ thumb_img_path: images/ABajQ7P.jpg
 
 [Social_Money at BitClout.com](https://bitclout.com/u/social_money)
 
+\<br>
+
 ### Questions & Answers
 
 **When did you join BitClout, and why?**
