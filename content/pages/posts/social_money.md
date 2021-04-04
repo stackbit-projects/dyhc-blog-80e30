@@ -43,19 +43,17 @@ seo:
 layout: post
 thumb_img_path: images/ABajQ7P.jpg
 ---
-[instants at BitClout.com](https://bitclout.com/u/instants)
+[Social_Money at BitClout.com](https://bitclout.com/u/social_money)
 
-> Instants posts images that change the world. Moments posted include the first BTC transaction, the last picture of the WTC, and this memorable instant from the Crash of 1929
+> Social_Money is building software bridging between the digital/crypto world and the real world. Sharing a long history in the crypto space and financial arbitrage, Social_Money has great insight into what makes crypto tick.
 
-![](/images/ABajQ7P.jpg)
-
-### Q\&A with instants
+### Q\&A with Social_Money
 
 *   **Q: When did you join BitClout, and why?**
 
 *   A: I joined 3-4 days ago because simply put I live for the creator economy. Adopting new social protocols early on can provide once in a decade opportunities.
 
-<!---->
+<br>
 
 *   **Q: How long have you been in this “area”?**
 
