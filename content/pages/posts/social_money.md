@@ -10,10 +10,10 @@ excerpt: >-
 date: '2021-04-04'
 seo:
   title: Social_Money - DO YOU HAVE CLOUT
-  description: >
-    Instants posts images that change the world. Moments posted include the
-    first BTC transaction, the last picture of the WTC, and this memorable
-    instant from the Crash of 1929
+  description: >-
+    Social_Money is building software bridging between the digital/crypto world
+    and the real world. Sharing a long history in the crypto space and financial
+    arbitrage, Social_Money has great insight into what makes crypto tick.
   extra:
     - name: 'og:type'
       value: article
