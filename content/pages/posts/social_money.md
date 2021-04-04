@@ -95,6 +95,8 @@ thumb_img_path: images/ABajQ7P.jpg
 
 > Right now one big thing I’m considering is turning the @social_money page into the hub for my businesses. This means instead of charging subscriptions, holders of my coin will get access to software that I am building on top of the Bitclout L1.
 
+<br>
+
 **How will you be providing value to your holders in the long term?**
 
 > Access to software.
