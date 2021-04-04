@@ -81,14 +81,32 @@ thumb_img_path: images/ABajQ7P.jpg
 >
 > On top of that I was recently funded by soundcloud to build a GenZ musician focused influencer house. The 6 creators I manage get 30m monthly impressions.
 
-****![](/images/Screen_Shot\_2021-04-03\_at\_5.01.37\_PM.png)
+![](/images/Screen_Shot\_2021-04-03\_at\_5.01.37\_PM.png)
 
 \<br>
 
-**How will you be working on expanding your reach here? What plans do you have for your content and profile?**
+**How will you be working on expanding your reach here?**
 
-I post high quality content with good captions, following/liking people who could be interested in my work. Culture is value.
+> So far I’ve been able to grow without using real life networks by being an active thought leader. Eventually I will bring in my existing communities (like my discord with a couple thousand members).
+
+**What plans do you have for your content and profile?**
+
+> Right now one big thing I’m considering is turning the @social_money page into the hub for my businesses. This means instead of charging subscriptions, holders of my coin will get access to software that I am building on top of the Bitclout L1.
+
+**How will you be providing value to your holders in the long term?**
+
+> Access to software.
+> Potentially doing a smart contract ISA with my existing revenue streams.
+> Active contributor to the protocol and thought leader.
 
 **Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?**
 
-I'm holding my coin with my main account (naruto) and i want to hold that long term, maybe sell a little bit if $BitClout price will rise
+> If you can tell from the % of my own coin I own, I’ve been buying more of my own coin everyday because I’m here for the long game. As I’m building my company on top of bitclout, I will need liquidity to onboard a VP of engineering  (considering 
+>
+> <https://bitclout.com/u/rohitgupta>
+>
+> ) My product designer is (
+>
+> <https://bitclout.com/u/saeri>
+>
+> ) and she is my amazing girlfriend of 3 years.
