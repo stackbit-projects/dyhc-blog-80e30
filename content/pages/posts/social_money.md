@@ -7,7 +7,7 @@ excerpt: >-
   Instants posts images that change the world. Moments posted include the first
   BTC transaction, the last picture of the WTC, and this memorable instant from
   the Crash of 1929
-date: '2021-04-03'
+date: '2021-04-04'
 seo:
   title: instants - DO YOU HAVE CLOUT
   description: >
