@@ -57,7 +57,7 @@ thumb_img_path: images/ABajQ7P.jpg
 
 <br>
 
-**How long have you been in this “area”?**
+##### **How long have you been in this “area”?**
 
 > I bought my first bitcoin in 2014, but I used it for transactional purposes and it wasn’t until 2016 did I become more active when I founded the financial algorithm programming club @ my university. In 2017 I realized there was a 35% spread in usd/krw priced bitcoin so I took out the rest of my student loans and starting flying between Korea and US with bags full of money doing what I coined as “airbnbatrage”. I had found out Korean citizens were allowed $50k of annual remittance, so I would stay with an airbnb super host, send them bitcoin, and we’d go to the bank together and withdraw it in KRW. I would fly back with suitcases full of yuan that I would convert back into USD, then back into BTC and repeat the process. After several trips I scaled it to 5 more countries, legitimized the process by using stat arb, and eventually sold the company to a prominent Chicago based cryptocurrency prop shop.
 
@@ -73,7 +73,7 @@ thumb_img_path: images/ABajQ7P.jpg
 
 <br>
 
-**Do you have a following outside of BitClout?**
+##### **Do you have a following outside of BitClout?**
 
 > It’s not huge but I do. I prefer to keep this pseudo-anonymous for now until Bitclout has gotten closer to product market fit.
 >
@@ -85,19 +85,19 @@ thumb_img_path: images/ABajQ7P.jpg
 
 <br>
 
-**How will you be working on expanding your reach here?**
+##### **How will you be working on expanding your reach here?**
 
 > So far I’ve been able to grow without using real life networks by being an active thought leader. Eventually I will bring in my existing communities (like my discord with a couple thousand members).
 
 <br>
 
-**What plans do you have for your content and profile?**
+##### **What plans do you have for your content and profile?**
 
 > Right now one big thing I’m considering is turning the @social_money page into the hub for my businesses. This means instead of charging subscriptions, holders of my coin will get access to software that I am building on top of the Bitclout L1.
 
 <br>
 
-**How will you be providing value to your holders in the long term?**
+##### **How will you be providing value to your holders in the long term?**
 
 > Access to software.
 > Potentially doing a smart contract ISA with my existing revenue streams.
@@ -105,7 +105,7 @@ thumb_img_path: images/ABajQ7P.jpg
 
 <br>
 
-**Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?**
+##### **Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?**
 
 > If you can tell from the % of my own coin I own, I’ve been buying more of my own coin everyday because I’m here for the long game. As I’m building my company on top of bitclout, I will need liquidity to onboard a VP of engineering  (considering
 >
