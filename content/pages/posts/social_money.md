@@ -43,10 +43,9 @@ seo:
 layout: post
 thumb_img_path: images/ABajQ7P.jpg
 ---
-> Social_Money is building software bridging between the digital/crypto world and the real world. Sharing a long history in the crypto space and financial arbitrage, Social_Money has great insight into what makes crypto tick.
+Social_Money is building software bridging between the digital/crypto world and the real world. Sharing a long history in the crypto space and financial arbitrage, Social_Money has great insight into what makes crypto tick.
 
 [Social_Money at BitClout.com](https://bitclout.com/u/social_money)
-
 
 ### Questions & Answers
 
