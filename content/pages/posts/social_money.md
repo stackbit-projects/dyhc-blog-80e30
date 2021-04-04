@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: instants - DO YOU HAVE CLOUT
+      value: Social_Money - DO YOU HAVE CLOUT
     - name: 'twitter:description'
       value: >-
         Instants posts images that change the world. Moments posted include the
