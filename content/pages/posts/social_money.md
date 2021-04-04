@@ -61,7 +61,7 @@ thumb_img_path: images/ABajQ7P.jpg
 
 > I bought my first bitcoin in 2014, but I used it for transactional purposes and it wasn’t until 2016 did I become more active when I founded the financial algorithm programming club @ my university. In 2017 I realized there was a 35% spread in usd/krw priced bitcoin so I took out the rest of my student loans and starting flying between Korea and US with bags full of money doing what I coined as “airbnbatrage”. I had found out Korean citizens were allowed $50k of annual remittance, so I would stay with an airbnb super host, send them bitcoin, and we’d go to the bank together and withdraw it in KRW. I would fly back with suitcases full of yuan that I would convert back into USD, then back into BTC and repeat the process. After several trips I scaled it to 5 more countries, legitimized the process by using stat arb, and eventually sold the company to a prominent Chicago based cryptocurrency prop shop.
 
-![](/images/Screen_Shot\_2021-04-03\_at\_4.50.39\_PM.png)
+![](/images/magenta-cedar.png)
 
 > 2017 I was brought in by lobbyists to help Congress draft bills regarding the adoption and regulation of blockchain. I worked particularly close with the House Financial Services Committee and the ranking chairman. On top of that I drafted one of the first NAL’s for the SEC based around something I was building at the time called CloutToken. The concept was that you could buy a creator’s token to get access to exclusive content and benefits.
 
