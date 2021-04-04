@@ -9,7 +9,7 @@ excerpt: >-
   arbitrage, Social_Money has great insight into what makes crypto tick.
 date: '2021-04-04'
 seo:
-  title: instants - DO YOU HAVE CLOUT
+  title: Social_Money - DO YOU HAVE CLOUT
   description: >
     Instants posts images that change the world. Moments posted include the
     first BTC transaction, the last picture of the WTC, and this memorable
