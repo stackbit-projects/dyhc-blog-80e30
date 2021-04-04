@@ -65,7 +65,7 @@ thumb_img_path: images/ABajQ7P.jpg
 
 > 2017 I was brought in by lobbyists to help Congress draft bills regarding the adoption and regulation of blockchain. I worked particularly close with the House Financial Services Committee and the ranking chairman. On top of that I drafted one of the first NAL’s for the SEC based around something I was building at the time called CloutToken. The concept was that you could buy a creator’s token to get access to exclusive content and benefits.
 
-![](/images/Screen_Shot\_2021-04-03\_at\_4.52.40\_PM.png)
+![](/images/fabulous-spider.png)
 
 > In 2020 I launched app.matter.online and scaled it to 150k+ users, while helping 50k musicians earn $1m+ during covid from digital subscriptions and products.
 >
