@@ -53,11 +53,15 @@ thumb_img_path: images/ABajQ7P.jpg
 
 *   **Q: When did you join BitClout, and why?**
 
-*   A: I've joined bitclout March 17 following Twitter hype.
+*   A: I joined 3-4 days ago because simply put I live for the creator economy. Adopting new social protocols early on can provide once in a decade opportunities.
+
+<!---->
 
 *   **Q: How long have you been in this “area”?**
 
-*   A: I'm in this area since day one, outside of bitclout
+*   A: I bought my first bitcoin in 2014, but I used it for transactional purposes and it wasn’t until 2016 did I become more active when I founded the financial algorithm programming club @ my university. In 2017 I realized there was a 35% spread in usd/krw priced bitcoin so I took out the rest of my student loans and starting flying between Korea and US with bags full of money doing what I coined as “airbnbatrage”. I had found out Korean citizens were allowed $50k of annual remittance, so I would stay with an airbnb super host, send them bitcoin, and we’d go to the bank together and withdraw it in KRW. I would fly back with suitcases full of yuan that I would convert back into USD, then back into BTC and repeat the process. After several trips I scaled it to 5 more countries, legitimized the process by using stat arb, and eventually sold the company to a prominent Chicago based cryptocurrency prop shop.
+
+<!---->
 
 *   **Q: Do you have a following outside of BitClout?**
 
