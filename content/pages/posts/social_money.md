@@ -38,7 +38,7 @@ seo:
         first BTC transaction, the last picture of the WTC, and this memorable
         instant from the Crash of 1929
     - name: 'og:image'
-      value: /images/ABajQ7P.jpg
+      value: /images/Screen_Shot_2021-04-03_at_4.50.39_PM.png
       keyName: property
       relativeUrl: true
 layout: post
