@@ -51,7 +51,7 @@ thumb_img_path: images/ABajQ7P.jpg
 
 ### Questions & Answers
 
-\<br>
+<br>
 
 #### When did you join BitClout, and why?
 
