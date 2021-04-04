@@ -71,6 +71,6 @@ I've 85k on YouTube but it's not a pictures channel.
 
 I post high quality content with good captions, following/liking people who could be interested in my work. Culture is value.
 
-**Q: Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?**
+**Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?**
 
 A: I'm holding my coin with my main account (naruto) and i want to hold that long term, maybe sell a little bit if $BitClout price will rise
