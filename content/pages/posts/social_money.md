@@ -107,12 +107,4 @@ thumb_img_path: images/ABajQ7P.jpg
 
 ##### **Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?**
 
-> If you can tell from the % of my own coin I own, I’ve been buying more of my own coin everyday because I’m here for the long game. As I’m building my company on top of bitclout, I will need liquidity to onboard a VP of engineering  (considering
->
-> <https://bitclout.com/u/rohitgupta>
->
-> ) My product designer is (
->
-> <https://bitclout.com/u/saeri>
->
-> ) and she is my amazing girlfriend of 3 years.
+> If you can tell from the % of my own coin I own, I’ve been buying more of my own coin everyday because I’m here for the long game. As I’m building my company on top of bitclout, I will need liquidity to onboard a VP of engineering  (considering [@rohitgupta](https://bitclout.com/u/rohitgupta)). My product designer is [@saeri](https://bitclout.com/u/saeri) and she is my amazing girlfriend of 3 years.
