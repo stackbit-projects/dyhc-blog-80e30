@@ -68,14 +68,18 @@ thumb_img_path: images/ABajQ7P.jpg
 ![](/images/Screen_Shot\_2021-04-03\_at\_4.52.40\_PM.png)
 
 > In 2020 I launched app.matter.online and scaled it to 150k+ users, while helping 50k musicians earn $1m+ during covid from digital subscriptions and products.
-
+>
 > In 2021 I built a low-code mvp for [@getkuudos](https://twitter.com/getkuudos) and onboarded a 1m follower influencer. The focus is to build and dominate what I call mid funnel fabric, turning existing communities into multi-platform ecosystems. Within 2 weeks we won a competition with Mr.Beast for $25,000, amassed 10k users on our waitlist, piqued VC interest, and have onboarded our first customers paying $130 a month for the software.
 
 <br>
 
 **Do you have a following outside of BitClout?**
 
-I've 85k on YouTube but it's not a pictures channel.
+> It’s not huge but I do. I prefer to keep this pseudo-anonymous for now until Bitclout has gotten closer to product market fit. 
+>
+> Personally I have millions of streams as a singer/songwriter on spotify. Yesterday I posted my first Tik Tok and got hundreds of thousands of views before Tik Tok suspended me for promoting a “scam”. 
+>
+> On top of that I was recently funded by soundcloud to build a GenZ musician focused influencer house. The 6 creators I manage get 30m monthly impressions.
 
 **How will you be working on expanding your reach here? What plans do you have for your content and profile?**
 
