@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: Social_Money - DO YOU HAVE CLOUT
+      value: lostinayaland - DO YOU HAVE CLOUT
       keyName: property
     - name: 'og:description'
       value: >-
