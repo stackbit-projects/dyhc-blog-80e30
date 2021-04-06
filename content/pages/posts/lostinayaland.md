@@ -11,7 +11,7 @@ excerpt: >-
   boards (Visit Faroe Islands ; Atlantic Airways) and I create content for them
   in order to bring awareness for destinations or introduce new products on the
   market.
-date: '2021-04-04'
+date: '2021-04-06'
 seo:
   title: lostinayaland - DO YOU HAVE CLOUT
   description: >-
