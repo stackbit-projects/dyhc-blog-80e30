@@ -107,4 +107,4 @@ thumb_img_path: images/magenta-cedar.png
 >
 > I want to invest this “profit” in expanding my creative portfolio - working on more passion projects, providing more gear for my team, traveling to places where stories need to be told about conservation for example. This would definitely help me a lot in achieving that.
 
-![](/images/x6iDuaw.jpg)
+![](/images/DbLo2ei.jpg)
