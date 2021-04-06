@@ -59,6 +59,8 @@ thumb_img_path: images/magenta-cedar.png
 
 > I joined a week ago, as I saw friends of mine from the creative industry posting stories about it on IG. At first I wasn’t interested, but then I started learning more about it and ended up creating an account.
 
+
+
 <br>
 
 #### How long have you been doing this?
@@ -83,15 +85,15 @@ thumb_img_path: images/magenta-cedar.png
 
 #### What plans do you have for your content and profile?
 
-> I post 3-5 times a day currently and I‘m still trying out different things content wise. I want to get a better understanding of the community, before I focus on one certain thing. 
+> I post 3-5 times a day currently and I‘m still trying out different things content wise. I want to get a better understanding of the community, before I focus on one certain thing.
 >
-> I definitely will start adding more and more detail with time and eventually I want to discuss current projects I‘m working on with my followers and investors, so that they know what they’re putting their time and money in. 
+> I definitely will start adding more and more detail with time and eventually I want to discuss current projects I‘m working on with my followers and investors, so that they know what they’re putting their time and money in.
 
 <br>
 
 #### How will you be providing value to your holders in the long term?
 
-> I have this idea of making them a part of my projects. For example currently I‘m working on passion project (video) about women in the filmmaking industry. I want to get those people involved, tell them more about it, show them bts footage and if I get some really big investors I will add their names to the film credits. 
+> I have this idea of making them a part of my projects. For example currently I‘m working on passion project (video) about women in the filmmaking industry. I want to get those people involved, tell them more about it, show them bts footage and if I get some really big investors I will add their names to the film credits.
 >
 > I just want for everyone to feel included in what I do and with time as the platform expands, I will definitely come up with more ideas to do that.
 
