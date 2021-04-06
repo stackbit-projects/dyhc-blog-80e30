@@ -39,7 +39,7 @@ seo:
         financial arbitrage, Social_Money has great insight into what makes
         crypto tick.
     - name: 'og:image'
-      value: /images/magenta-cedar.png
+      value: /images/UpIxhZX.jpg
       keyName: property
       relativeUrl: true
 layout: post
