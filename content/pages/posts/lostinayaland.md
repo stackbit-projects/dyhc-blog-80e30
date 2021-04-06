@@ -1,6 +1,6 @@
 ---
 title: lostinayaland
-subtitle: building the gateway from the real world -> social money
+subtitle: Storytelling that evokes emotion
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern
 excerpt: >-
