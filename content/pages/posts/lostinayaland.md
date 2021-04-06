@@ -1,5 +1,5 @@
 ---
-title: Social_Money
+title: lostinayaland
 subtitle: building the gateway from the real world -> social money
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern
