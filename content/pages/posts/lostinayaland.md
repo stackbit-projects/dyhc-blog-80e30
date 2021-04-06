@@ -106,3 +106,5 @@ thumb_img_path: images/magenta-cedar.png
 > For now I’m definitely holding, the platform is at it‘s absolute start and I want t see where that’s going. In the future (at least 6 months) from now of the coin is growing so much as now and there are ways to make that part of my income, I will come up with a structured way of doing that, which I will of course share with my investors.
 >
 > I want to invest this “profit” in expanding my creative portfolio - working on more passion projects, providing more gear for my team, traveling to places where stories need to be told about conservation for example. This would definitely help me a lot in achieving that.
+
+![](/images/x6iDuaw.jpg)
