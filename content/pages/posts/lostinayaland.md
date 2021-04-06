@@ -45,8 +45,6 @@ seo:
 layout: post
 thumb_img_path: images/magenta-cedar.png
 ---
-##### lostinayaland
-
 [lostinayaland at BitClout.com](https://bitclout.com/u/lostinayaland)
 
 <br>
@@ -59,15 +57,11 @@ thumb_img_path: images/magenta-cedar.png
 
 > I joined a week ago, as I saw friends of mine from the creative industry posting stories about it on IG. At first I wasn’t interested, but then I started learning more about it and ended up creating an account.
 
-
-
 <br>
 
 #### How long have you been doing this?
 
 > I started doing filmmaking and photography professionally 2 years ago now. At first it wasn’t full time as I was also studying in university, but at the beginning of last year I took the leap and now I’m a full time content creator. I work with different brands (Land Rover, Zhiyun Tech) and tourism boards (Visit Faroe Islands ; Atlantic Airways) and I create content for them in order to bring awareness for destinations or introduce new products on the market.
-
-
 
 <br>
 
@@ -90,8 +84,6 @@ thumb_img_path: images/magenta-cedar.png
 > I post 3-5 times a day currently and I‘m still trying out different things content wise. I want to get a better understanding of the community, before I focus on one certain thing.
 >
 > I definitely will start adding more and more detail with time and eventually I want to discuss current projects I‘m working on with my followers and investors, so that they know what they’re putting their time and money in.
-
-
 
 <br>
 
