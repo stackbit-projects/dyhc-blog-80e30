@@ -31,7 +31,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: Social_Money - DO YOU HAVE CLOUT
+      value: lostinayaland - DO YOU HAVE CLOUT
     - name: 'twitter:description'
       value: >-
         Social_Money is building software bridging between the digital/crypto
