@@ -89,8 +89,6 @@ thumb_img_path: images/magenta-cedar.png
 >
 > I definitely will start adding more and more detail with time and eventually I want to discuss current projects I‘m working on with my followers and investors, so that they know what they’re putting their time and money in.
 
-
-
 <br>
 
 #### How will you be providing value to your holders in the long term?
