@@ -9,7 +9,7 @@ excerpt: >-
   arbitrage, Social_Money has great insight into what makes crypto tick.
 date: '2021-04-04'
 seo:
-  title: Social_Money - DO YOU HAVE CLOUT
+  title: lostinayaland - DO YOU HAVE CLOUT
   description: >-
     Social_Money is building software bridging between the digital/crypto world
     and the real world. Sharing a long history in the crypto space and financial
