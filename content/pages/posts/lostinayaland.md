@@ -65,6 +65,8 @@ thumb_img_path: images/magenta-cedar.png
 
 > I started doing filmmaking and photography professionally 2 years ago now. At first it wasn’t full time as I was also studying in university, but at the beginning of last year I took the leap and now I’m a full time content creator. I work with different brands (Land Rover, Zhiyun Tech) and tourism boards (Visit Faroe Islands ; Atlantic Airways) and I create content for them in order to bring awareness for destinations or introduce new products on the market.
 
+![](/images/UpIxhZX.jpg)
+
 <br>
 
 #### Do you have a following outside of BitClout?
