@@ -45,9 +45,9 @@ seo:
 layout: post
 thumb_img_path: images/magenta-cedar.png
 ---
-##### Social_Money is building software bridging between the digital/crypto world and the real world. Sharing a long history in the crypto space and financial arbitrage, Social_Money has great insight into what makes crypto tick.
+##### lostinayaland
 
-[Social_Money at BitClout.com](https://bitclout.com/u/social_money)
+[lostinayaland at BitClout.com](https://bitclout.com/u/lostinayaland)
 
 <br>
 
@@ -57,58 +57,48 @@ thumb_img_path: images/magenta-cedar.png
 
 #### When did you join BitClout, and why?
 
-> I joined 3-4 days ago because simply put I live for the creator economy. Adopting new social protocols early on can provide once in a decade opportunities.
+> I joined a week ago, as I saw friends of mine from the creative industry posting stories about it on IG. At first I wasn’t interested, but then I started learning more about it and ended up creating an account.
 
 <br>
 
-#### How long have you been in this “area”?
+#### How long have you been doing this?
 
-> I bought my first bitcoin in 2014, but I used it for transactional purposes and it wasn’t until 2016 did I become more active when I founded the financial algorithm programming club @ my university. In 2017 I realized there was a 35% spread in usd/krw priced bitcoin so I took out the rest of my student loans and starting flying between Korea and US with bags full of money doing what I coined as “airbnbatrage”. I had found out Korean citizens were allowed $50k of annual remittance, so I would stay with an airbnb super host, send them bitcoin, and we’d go to the bank together and withdraw it in KRW. I would fly back with suitcases full of yuan that I would convert back into USD, then back into BTC and repeat the process. After several trips I scaled it to 5 more countries, legitimized the process by using stat arb, and eventually sold the company to a prominent Chicago based cryptocurrency prop shop.
-
-![](/images/magenta-cedar.png)
-
-> 2017 I was brought in by lobbyists to help Congress draft bills regarding the adoption and regulation of blockchain. I worked particularly close with the House Financial Services Committee and the ranking chairman. On top of that I drafted one of the first NAL’s for the SEC based around something I was building at the time called CloutToken. The concept was that you could buy a creator’s token to get access to exclusive content and benefits.
-
-![](/images/fabulous-spider.png)
-
-> In 2020 I launched app.matter.online and scaled it to 150k+ users, while helping 50k musicians earn $1m+ during covid from digital subscriptions and products.
->
-> In 2021 I built a low-code mvp for [@getkuudos](https://twitter.com/getkuudos) and onboarded a 1m follower influencer. The focus is to build and dominate what I call mid funnel fabric, turning existing communities into multi-platform ecosystems. Within 2 weeks we won a competition with Mr.Beast for $25,000, amassed 10k users on our waitlist, piqued VC interest, and have onboarded our first customers paying $130 a month for the software.
+> I started doing filmmaking and photography professionally 2 years ago now. At first it wasn’t full time as I was also studying in university, but at the beginning of last year I took the leap and now I’m a full time content creator. I work with different brands (Land Rover, Zhiyun Tech) and tourism boards (Visit Faroe Islands ; Atlantic Airways) and I create content for them in order to bring awareness for destinations or introduce new products on the market.
 
 <br>
 
 #### Do you have a following outside of BitClout?
 
-> It’s not huge but I do. I prefer to keep this pseudo-anonymous for now until Bitclout has gotten closer to product market fit.
->
-> Personally I have millions of streams as a singer/songwriter on spotify. Yesterday I posted my first Tik Tok and got hundreds of thousands of views before Tik Tok suspended me for promoting a “scam”.
->
-> On top of that I was recently funded by soundcloud to build a GenZ musician focused influencer house. The 6 creators I manage get 30m monthly impressions.
-
-![](/images/Screen_Shot\_2021-04-03\_at\_5.01.37\_PM.png)
+> Yes - I mainly use Instagram. I have almost 4K followers there. [@lostinayaland](https://instagram.com/lostinayaland)
 
 <br>
 
 #### How will you be working on expanding your reach here?
 
-> So far I’ve been able to grow without using real life networks by being an active thought leader. Eventually I will bring in my existing communities (like my discord with a couple thousand members).
+> I still haven’t announced it anywhere, that I‘m on BitClout as I wanted to see what I can achieve naturally within the app. And so far so good. I reached 100 followers in a couple of days and people are interested in investing.
+>
+> I soon plan to announce it on social media and start discussions about the topic with my followers.
 
 <br>
 
 #### What plans do you have for your content and profile?
 
-> Right now one big thing I’m considering is turning the @social_money page into the hub for my businesses. This means instead of charging subscriptions, holders of my coin will get access to software that I am building on top of the Bitclout L1.
+> I post 3-5 times a day currently and I‘m still trying out different things content wise. I want to get a better understanding of the community, before I focus on one certain thing. 
+>
+> I definitely will start adding more and more detail with time and eventually I want to discuss current projects I‘m working on with my followers and investors, so that they know what they’re putting their time and money in. 
 
 <br>
 
 #### How will you be providing value to your holders in the long term?
 
-> Access to software.
-> Potentially doing a smart contract ISA with my existing revenue streams.
-> Active contributor to the protocol and thought leader.
+> I have this idea of making them a part of my projects. For example currently I‘m working on passion project (video) about women in the filmmaking industry. I want to get those people involved, tell them more about it, show them bts footage and if I get some really big investors I will add their names to the film credits. 
+>
+> I just want for everyone to feel included in what I do and with time as the platform expands, I will definitely come up with more ideas to do that.
 
 <br>
 
 #### Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?
 
-> If you can tell from the % of my own coin I own, I’ve been buying more of my own coin everyday because I’m here for the long game. As I’m building my company on top of bitclout, I will need liquidity to onboard a VP of engineering  (considering [@rohitgupta](https://bitclout.com/u/rohitgupta)). My product designer is [@saeri](https://bitclout.com/u/saeri) and she is my amazing girlfriend of 3 years.
+> For now I’m definitely holding, the platform is at it‘s absolute start and I want t see where that’s going. In the future (at least 6 months) from now of the coin is growing so much as now and there are ways to make that part of my income, I will come up with a structured way of doing that, which I will of course share with my investors.
+>
+> I want to invest this “profit” in expanding my creative portfolio - working on more passion projects, providing more gear for my team, traveling to places where stories need to be told about conservation for example. This would definitely help me a lot in achieving that.
