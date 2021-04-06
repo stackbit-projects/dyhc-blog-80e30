@@ -53,7 +53,7 @@ seo:
       keyName: property
       relativeUrl: true
 layout: post
-thumb_img_path: images/magenta-cedar.png
+thumb_img_path: images/UpIxhZX.jpg
 ---
 ![](/images/UpIxhZX.jpg)
 
