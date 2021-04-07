@@ -91,3 +91,5 @@ thumb_img_path: images/77ZE4A4.gif
 #### Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?
 
 > I'm in it for the long run. I believe this will be the future of social media.
+
+![](/images/LStkTOd.gif)
