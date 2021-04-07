@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:title'
       value: gokhanyucel - DO YOU HAVE CLOUT
     - name: 'og:image'
-      value: /images/UpIxhZX.jpg
+      value: /images/77ZE4A4.gif
       keyName: property
       relativeUrl: true
     - name: 'og:description'
