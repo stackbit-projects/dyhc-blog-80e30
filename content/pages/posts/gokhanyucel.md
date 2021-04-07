@@ -4,13 +4,9 @@ subtitle: Curator of weird & wonderful
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern
 excerpt: >-
-  I started doing filmmaking and photography professionally 2 years ago now. At
-  first it wasn’t full time as I was also studying in university, but at the
-  beginning of last year I took the leap and now I’m a full time content
-  creator. I work with different brands (Land Rover, Zhiyun Tech) and tourism
-  boards (Visit Faroe Islands ; Atlantic Airways) and I create content for them
-  in order to bring awareness for destinations or introduce new products on the
-  market.
+  Great art will always attract people & I am a magnet for anything that can be
+  considered art (from gifs to vintage science photos). I have been collecting
+  stuff for the last 10 years and perfecting the curation on BitClout.
 date: '2021-04-06'
 seo:
   title: gokhanyucel - DO YOU HAVE CLOUT
