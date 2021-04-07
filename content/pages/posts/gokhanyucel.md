@@ -7,7 +7,7 @@ excerpt: >-
   Great art will always attract people & I am a magnet for anything that can be
   considered art (from gifs to vintage science photos). I have been collecting
   stuff for the last 10 years and perfecting the curation on BitClout.
-date: '2021-04-06'
+date: '2021-04-07'
 seo:
   title: gokhanyucel - DO YOU HAVE CLOUT
   extra:
