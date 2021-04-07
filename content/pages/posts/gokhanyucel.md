@@ -73,6 +73,7 @@ thumb_img_path: images/77ZE4A4.gif
 
 > I believe that good curation will always attract people. Since my account is one of the first (decent) ones, the reaching will be done by high quality art selection. And when reclout  feature comes the effect will multiply.
 
+![](/images/77ZE4A4.gif)
 <br>
 
 #### What plans do you have for your content and profile?
