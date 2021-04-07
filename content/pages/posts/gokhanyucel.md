@@ -14,14 +14,6 @@ excerpt: >-
 date: '2021-04-06'
 seo:
   title: gokhanyucel - DO YOU HAVE CLOUT
-  description: >-
-    I started doing filmmaking and photography professionally 2 years ago now.
-    At first it wasn’t full time as I was also studying in university, but at
-    the beginning of last year I took the leap and now I’m a full time content
-    creator. I work with different brands (Land Rover, Zhiyun Tech) and tourism
-    boards (Visit Faroe Islands ; Atlantic Airways) and I create content for
-    them in order to bring awareness for destinations or introduce new products
-    on the market.
   extra:
     - name: 'og:type'
       value: article
