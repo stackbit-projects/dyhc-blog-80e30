@@ -13,7 +13,7 @@ excerpt: >-
   market.
 date: '2021-04-06'
 seo:
-  title: lostinayaland - DO YOU HAVE CLOUT
+  title: gokhanyucel - DO YOU HAVE CLOUT
   description: >-
     I started doing filmmaking and photography professionally 2 years ago now.
     At first it wasn’t full time as I was also studying in university, but at
