@@ -32,7 +32,7 @@ seo:
 layout: post
 thumb_img_path: images/UpIxhZX.jpg
 ---
-![](/images/UpIxhZX.jpg)
+
 
 [lostinayaland at BitClout.com](https://bitclout.com/u/lostinayaland)
 
@@ -52,7 +52,7 @@ thumb_img_path: images/UpIxhZX.jpg
 
 > I started doing filmmaking and photography professionally 2 years ago now. At first it wasn’t full time as I was also studying in university, but at the beginning of last year I took the leap and now I’m a full time content creator. I work with different brands (Land Rover, Zhiyun Tech) and tourism boards (Visit Faroe Islands ; Atlantic Airways) and I create content for them in order to bring awareness for destinations or introduce new products on the market.
 
-![](/images/x6iDuaw.jpg)
+
 
 <br>
 
@@ -76,8 +76,6 @@ thumb_img_path: images/UpIxhZX.jpg
 >
 > I definitely will start adding more and more detail with time and eventually I want to discuss current projects I‘m working on with my followers and investors, so that they know what they’re putting their time and money in.
 
-
-
 <br>
 
 #### How will you be providing value to your holders in the long term?
@@ -94,4 +92,3 @@ thumb_img_path: images/UpIxhZX.jpg
 >
 > I want to invest this “profit” in expanding my creative portfolio - working on more passion projects, providing more gear for my team, traveling to places where stories need to be told about conservation for example. This would definitely help me a lot in achieving that.
 
-![](/images/DbLo2ei.jpg)
