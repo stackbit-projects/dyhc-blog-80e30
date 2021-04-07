@@ -24,7 +24,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
-      value: lostinayaland - DO YOU HAVE CLOUT
+      value: gokhanyucel - DO YOU HAVE CLOUT
     - name: 'twitter:description'
       value: >-
         I started doing filmmaking and photography professionally 2 years ago
