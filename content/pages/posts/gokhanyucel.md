@@ -92,4 +92,4 @@ thumb_img_path: images/77ZE4A4.gif
 
 > I'm in it for the long run. I believe this will be the future of social media.
 
-![](/images/LStkTOd.gif)
+![](/images/IfTSO1u.gif)
