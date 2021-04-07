@@ -25,6 +25,14 @@ seo:
       value: /images/UpIxhZX.jpg
       keyName: property
       relativeUrl: true
+    - name: 'og:description'
+      value: >-
+        Great art will always attract people & I am a magnet for anything that
+        can be considered art (from gifs to vintage science photos). I have been
+        collecting stuff for the last 10 years and perfecting the curation on
+        BitClout.
+      keyName: property
+      relativeUrl: false
   description: >-
     Great art will always attract people & I am a magnet for anything that can
     be considered art (from gifs to vintage science photos). I have been
