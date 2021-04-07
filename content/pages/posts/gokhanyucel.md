@@ -19,7 +19,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: lostinayaland - DO YOU HAVE CLOUT
+      value: gokhanyucel - DO YOU HAVE CLOUT
       keyName: property
     - name: 'og:description'
       value: >-
