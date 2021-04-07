@@ -86,7 +86,7 @@ thumb_img_path: images/77ZE4A4.gif
 
 > Even though I use this account for curation, I'm actually a creative director in real life (For example, this is one of my projects with 350K following: [YouTube AnatolianRockRevivalProject](https://www.youtube.com/c/AnatolianRockRevivalProject/featured)). I come up with new ideas & projects all the time. So, i don't think that this will be different for BitClout. I'll grasp and use the mechanics of this medium to turn it into a beautiful place. I believe that it will also have a positive impact on my account.
 
-![](/images/IfTSO1u.gif)
+![](/images/H2jGv6J.jpg)
 
 <br>
 
