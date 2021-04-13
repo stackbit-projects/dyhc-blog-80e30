@@ -1,5 +1,5 @@
 ---
-title: HPaulson
+title: ASG
 subtitle: A technical force "hacking" the BitClout API
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern
