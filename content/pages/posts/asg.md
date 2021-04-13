@@ -35,8 +35,8 @@ seo:
 layout: post
 thumb_img_path: images/jWfcqNJ (1).gif
 ---
-[HPaulson at BitClout.com](https://bitclout.com/u/hpaulson)
+[ASG at BitClout.com](https://bitclout.com/u/asg)
 
-> I’m actively reverse engineering BitClout.com to provide documentation regarding the development team’s node and its API, and am using such to develop tools for BitClout such as a US tax CLI to generate BitClout trade information as it appears on IRS Form 8946
+> He has been appointed the daily[ @bitstoday](https://bitclout.com/u/bitstoday) news editor by [@Artz](https://bitclout.com/u/artz), sharing new experiments, posts, creators, etc.
 
-![](https://preview--dyhc-blog-80e30.stackbit.dev/images/jWfcqNJ%20\(1\).gif)
+![](/images/aFTzwSF.jpg)
