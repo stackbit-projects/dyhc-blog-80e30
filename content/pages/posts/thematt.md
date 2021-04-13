@@ -3,8 +3,10 @@ title: Matt1
 subtitle: "19\U0001F680| Public Speaker + Entrepreneur#Reinventing BitClout Economy"
 content_img_alt: lorem-ipsum
 excerpt: >-
-  1000 non-obvious marketing laws, principles, & tactics that can be applied
-  anywhere (even bitclout).
+  Matt was one of the creators of @bitperks, whom presented and received an
+  investment of $2k (into bitperks) during our event today. His goal is to
+  develop a platform to monetize creator coins as well as incentivizing coin
+  holding.
 date: '2021-04-09'
 seo:
   title: ASG - DO YOU HAVE CLOUT
