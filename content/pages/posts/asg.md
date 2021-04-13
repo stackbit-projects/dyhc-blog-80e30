@@ -30,7 +30,7 @@ seo:
     - name: 'twitter:description'
       value: A technical force "hacking" the BitClout API
     - name: 'og:image'
-      value: /images/jWfcqNJ%20(1).gif
+      value: /images/aFTzwSF.jpg
       keyName: property
       relativeUrl: true
 layout: post
