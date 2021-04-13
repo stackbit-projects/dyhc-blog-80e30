@@ -1,6 +1,8 @@
 ---
 title: ASG
-subtitle: A technical force "hacking" the BitClout API
+subtitle: >-
+  1000 non-obvious marketing laws, principles, & tactics that can be applied
+  anywhere (even bitclout).
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern
 excerpt: >-
