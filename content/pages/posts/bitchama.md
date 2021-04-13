@@ -29,7 +29,7 @@ seo:
       keyName: property
       relativeUrl: true
 layout: post
-thumb_img_path: images/HIn4Sd5.png
+thumb_img_path: images/l07NJMK.png
 ---
 [bitchama at BitClout.com](https://bitclout.com/u/bitchama)
 
