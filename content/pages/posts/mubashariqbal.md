@@ -11,7 +11,7 @@ excerpt: >-
   stuff for the last 10 years and perfecting the curation on BitClout.
 date: '2021-04-07'
 seo:
-  title: gokhanyucel - DO YOU HAVE CLOUT
+  title: mubashariqbal - DO YOU HAVE CLOUT
   extra:
     - name: 'og:type'
       value: article
