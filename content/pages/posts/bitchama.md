@@ -14,10 +14,9 @@ date: '2021-04-12'
 seo:
   title: Matt1 - DO YOU HAVE CLOUT
   description: >-
-    Matt was one of the creators of @bitperks, whom presented and received an
-    investment of $2k (into bitperks) during our event today. His goal is to
-    develop a platform to monetize creator coins as well as incentivizing coin
-    holding.
+    BitChama is the creator of @CloutTrack, currently the most reliable platform
+    to track your portfolio on a minute-by-minute basis. His tracking feature is
+    being used by 200 people despite launching a few days ago.
   extra:
     - name: 'og:type'
       value: article
