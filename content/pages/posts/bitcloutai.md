@@ -45,7 +45,7 @@ thumb_img_path: images/n2ecddu.png
 
 #### How long have you been doing in your field or area?
 
-> Been in tech since 2012. 
+> Been in tech since 2012.
 >
 > Nanotechnology on the R\&D side (forward osmosis, graphene),
 > Battery engineering on the Tesla Model 3 Battery Module (M3BM) team under @elonmusk
@@ -67,7 +67,7 @@ thumb_img_path: images/n2ecddu.png
 
 #### What plans do you have for your content and profile?
 
-> Take what we do for a living, and document into BitClout. Then use it as the seedbed for producing more channels of content on top of them. 
+> Take what we do for a living, and document into BitClout. Then use it as the seedbed for producing more channels of content on top of them.
 >
 > Right now, we post hot topic AI stuff (1) :
 >
@@ -87,14 +87,13 @@ thumb_img_path: images/n2ecddu.png
 > Staying within and circle of competence and leverage:
 >
 > 1\. First to market: 1st legitimate artificial intelligence creators doing hands-on AI work
-> 2\. High content throughput: Documenting our real-life work as a content 
+> 2\. High content throughput: Documenting our real-life work as a content
 > 3\. Attract attention via simplifying, grew 30% within 24 hours
 > 4\. High barrier to entry
 >
+> Think about it.
 >
-> Think about it. 
->
-> When @elonmusk, and all the builders within tech come into BitClout, it would be hard for them to not invest in @bitcloutAI. 
+> When @elonmusk, and all the builders within tech come into BitClout, it would be hard for them to not invest in @bitcloutAI.
 
 <br>
 
@@ -102,9 +101,7 @@ thumb_img_path: images/n2ecddu.png
 
 > Bitcoin generally takes on a 4-year market cycle, and we are currently entering (or have already) the phase of the market cycle characterized by the highest volatility to the upside. I believe the huge influx of money into NFTs and BitClout is simply a confirmation to the above statement. A rising tide lifts all boats.
 >
->
 > Hence, I will be selling so I can buy more at a significant discount by doing :
->
 >
 > (1) Sell 50% when I speculate the start of next global correction would be, which is Dec 2021 / Jan 2022
 >
