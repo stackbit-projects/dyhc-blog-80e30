@@ -19,8 +19,6 @@ seo:
       keyName: property
     - name: 'twitter:card'
       value: summary
-    - name: 'twitter:description'
-      value: A technical force "hacking" the BitClout API
     - name: 'og:image'
       value: /images/aFTzwSF.jpg
       keyName: property
