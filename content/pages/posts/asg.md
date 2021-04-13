@@ -5,10 +5,8 @@ subtitle: >-
   anywhere (even bitclout).
 content_img_alt: lorem-ipsum
 excerpt: >-
-  I’m actively reverse engineering BigClout.com to provide documentation
-  regarding the development team’s node and its API, and am using such to
-  develop tools for BitClout such as a US tax CLI to generate BitClout trade
-  information as it appears on IRS Form 8946
+  1000 non-obvious marketing laws, principles, & tactics that can be applied
+  anywhere (even bitclout).
 date: '2021-03-31'
 seo:
   title: HPaulson - DO YOU HAVE CLOUT
