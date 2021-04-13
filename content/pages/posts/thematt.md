@@ -25,8 +25,7 @@ seo:
 layout: post
 thumb_img_path: images/aFTzwSF.jpg
 ---
-[ASG at BitClout.com](https://bitclout.com/u/asg)
+[Matt1 at BitClout.com](https://bitclout.com/u/matt1)
 
-> He has been appointed the daily[ @bitstoday](https://bitclout.com/u/bitstoday) news editor by [@Artz](https://bitclout.com/u/artz), sharing new experiments, posts, creators, etc.
+> Matt was one of the creators of[ @bitperks](https://bitclout.com/u/bitperks), whom presented and received an investment of $2k (into bitperks) during our event today. His goal is to develop a platform to monetize creator coins as well as incentivizing coin holding.
 
-![](/images/aFTzwSF.jpg)
