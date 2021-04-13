@@ -26,7 +26,7 @@ seo:
     Building Founderpath.com and working on too many side projects
     (@bitcloutfollow)
 layout: post
-thumb_img_path: images/77ZE4A4.gif
+thumb_img_path: images/n2ecddu.png
 ---
 [mubashariqbal at BitClout.com](https://bitclout.com/u/mubashariqbal)
 
