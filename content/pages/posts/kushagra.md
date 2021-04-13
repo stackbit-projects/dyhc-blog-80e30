@@ -27,6 +27,9 @@ seo:
       relativeUrl: true
 layout: post
 thumb_img_path: images/QFMbrmD.gif
+thumb_img_alt: >-
+  ✨Creating @cloutsights, creatorsoffuture.com, cssbattle.dev, cone.app, and
+  unwind.to
 ---
 [kushagra at BitClout.com](https://bitclout.com/u/kushagra)
 
