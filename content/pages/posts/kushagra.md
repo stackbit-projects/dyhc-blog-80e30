@@ -10,7 +10,7 @@ excerpt: >-
   being used by 200 people despite launching a few days ago.
 date: '2021-04-13'
 seo:
-  title: bitchama - DO YOU HAVE CLOUT
+  title: Kushagra - DO YOU HAVE CLOUT
   description: >-
     ✨Creating @cloutsights, creatorsoffuture.com, cssbattle.dev, cone.app, and
     unwind.to
