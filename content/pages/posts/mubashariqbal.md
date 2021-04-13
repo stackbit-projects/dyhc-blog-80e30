@@ -19,7 +19,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'og:image'
-      value: /images/77ZE4A4.gif
+      value: /images/n2ecddu.png
       keyName: property
       relativeUrl: true
   description: >-
