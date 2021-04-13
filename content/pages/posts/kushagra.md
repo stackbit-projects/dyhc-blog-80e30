@@ -33,4 +33,4 @@ thumb_img_path: images/l07NJMK.png
 
 > Kushagra is the creator of multiple different BitClout ventures - including [@cloutsights](https://bitclout.com/u/kushagra), which is a macOS menu bar app to track creator coins
 
-![](/images/l07NJMK.png)
+![](/images/QFMbrmD.gif)
