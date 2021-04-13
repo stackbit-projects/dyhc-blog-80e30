@@ -8,7 +8,7 @@ excerpt: >-
   (@bitcloutfollow)
 date: '2021-04-10'
 seo:
-  title: mubashariqbal - DO YOU HAVE CLOUT
+  title: bitcloutAI - DO YOU HAVE CLOUT
   extra:
     - name: 'og:type'
       value: article
