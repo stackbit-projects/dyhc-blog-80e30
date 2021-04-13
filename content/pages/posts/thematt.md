@@ -1,5 +1,5 @@
 ---
-title: ASG
+title: thematt
 subtitle: >-
   1000 non-obvious marketing laws, principles, & tactics that can be applied
   anywhere (even bitclout).
