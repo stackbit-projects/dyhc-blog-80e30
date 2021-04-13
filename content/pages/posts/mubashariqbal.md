@@ -25,12 +25,6 @@ seo:
       value: /images/77ZE4A4.gif
       keyName: property
       relativeUrl: true
-    - name: 'og:description'
-      value: >-
-        Building Founderpath.com and working on too many side projects
-        (@bitcloutfollow)
-      keyName: property
-      relativeUrl: false
   description: >-
     Building Founderpath.com and working on too many side projects
     (@bitcloutfollow)
