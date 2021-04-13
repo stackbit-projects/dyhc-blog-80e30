@@ -25,9 +25,9 @@ seo:
 layout: post
 thumb_img_path: images/n2ecddu.png
 ---
-[mubashariqbal at BitClout.com](https://bitclout.com/u/mubashariqbal)
+[bitcloutAI at BitClout.com](https://bitclout.com/u/bitcloutai)
 
-![](/images/n2ecddu.png)
+![](/images/zuuiCC8.jpg)
 
 <br>
 
@@ -37,63 +37,93 @@ thumb_img_path: images/n2ecddu.png
 
 #### When did you join BitClout?
 
-> I'm excited with the possibility of a truly decentralized social media platform that incentives people to create high quality content and engage with other users in a positive way.
+> 11 days ago.
+>
+> Because BitClout seems like the first decentralized social network that's hit product-market fit and I believe experience is the only form of understanding. I want to start building now, such that newcomers will come, follow, and invest into @bitcloutAI if/as the platform grows.
 
 <br>
 
-#### How long have you been doing this?
+#### How long have you been doing in your field or area?
 
-> I started coding around the age of 8, gradated from University in 1996 and have been working in the industry ever since.
-> \>25 years
+> Been in tech since 2012. 
+>
+> Nanotechnology on the R\&D side (forward osmosis, graphene),
+> Battery engineering on the Tesla Model 3 Battery Module (M3BM) team under @elonmusk
+> Artifical intelligence (Deep learning), doing both research, development, and deployment
 
 <br>
 
 #### Do you have a following outside of BitClout?
 
-> I've been pretty active on both Twitter and ProductHunt for a number of years, same username as here.
+> Nah, I got ~4000 but very high quality network on LinkedIn
 
 <br>
 
 #### How will you be working on expanding your reach here?
 
-> Since I do have a following on Twitter and ProductHunt, I will leverage that reach to try and pull more users to BitClout.
->
+> Engagement in Global and Local community, daily.
 
 <br>
 
 #### What plans do you have for your content and profile?
 
-> I intended on building in public.  Sharing information on what/why/how I'm building things.  This has been a popular trend and has been attracting a lot followers.
+> Take what we do for a living, and document into BitClout. Then use it as the seedbed for producing more channels of content on top of them. 
+>
+> Right now, we post hot topic AI stuff (1) :
+>
+> Then recreate it (2) ourselves in the lab to provide people familiarity with high abstract concepts.
+>
+> And create new channels of content like -Sending Our Future VCs This- (3)
+>
+> Currently evaluating the value of newsletter (4)
+
+
 
 <br>
 
 #### How will you be providing value to your holders in the long term?
 
-> As I build more tools, I will be giving priority access and share more detailed information with holders of my creator coin, and the creator coin of my projects.
+> Providing consistent entertaining & informative content
+> Staying within and circle of competence and leverage:
+>
+> 1\. First to market: 1st legitimate artificial intelligence creators doing hands-on AI work
+> 2\. High content throughput: Documenting our real-life work as a content 
+> 3\. Attract attention via simplifying, grew 30% within 24 hours
+> 4\. High barrier to entry
+>
+>
+> Think about it. 
+>
+> When @elonmusk, and all the builders within tech come into BitClout, it would be hard for them to not invest in @bitcloutAI. 
 
 <br>
 
 #### Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?
 
-> Yeah I plan on holding for the long term, I'm not here for the speculating that some people are doing (which is very cool too!)
+> Bitcoin generally takes on a 4-year market cycle, and we are currently entering (or have already) the phase of the market cycle characterized by the highest volatility to the upside. I believe the huge influx of money into NFTs and BitClout is simply a confirmation to the above statement. A rising tide lifts all boats.
 >
-> If the valuation rises sufficiently I made sell small amounts to lock in funds, so that I can work exclusively on my projects. 
 >
-> Otherwise I have no plans to sell any of my creator coin.
+> Hence, I will be selling so I can buy more at a significant discount by doing :
+>
+>
+> (1) Sell 50% when I speculate the start of next global correction would be, which is Dec 2021 / Jan 2022
+>
+> (2) Wait until capitulation of Bitcoin and all related instruments (15-18 months)
+>
+> (3) Buy back my coin, and others, 10 cents on the dollar
 
 <br>
 
 #### What are your areas of expertise and experience?
 
-> I'm a maker.  I've been making things for over 25 years. I'm comfortable with doing all the things required to take an idea and launch a functioning website/application in a very short amount of time.  See BitCloutFollow.com :)
+> Bleeding edge technology (e.g. AI, Crypto, and Sustainable Energy)
 >
-> I've worked in the startup world, and at agencies, taking ideas and launching projects that have scaled to millions of monthly visitors.  I hope to do that same for my BitClout projects.
+> Energy - Tesla Engineer, Model 3 Battery Module Production Engineering team
+> Crypto - Flipping since 2017
+> AI - Artifical intelligence scientist  & graduate researcher
 
 <br>
 
 #### Is there anything you need beyond investment to accomplish what you want?
 
-> I will be looking to work with other people on my projects, would love team members that are stronger than me, with the sales/marketing side of running projects.  
->
-> Investors who can assist with this, or helping finding team members can, would be amazing.
-
+> Engagement with high quality, high functioning creators that have different domain expertise, such that we can figure out how to meld two different domains together
