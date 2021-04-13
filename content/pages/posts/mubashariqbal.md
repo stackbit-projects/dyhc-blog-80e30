@@ -1,6 +1,8 @@
 ---
 title: mubashariqbal
-subtitle: Curator of weird & wonderful
+subtitle: >-
+  Building Founderpath.com and working on too many side projects
+  (@bitcloutfollow)
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern
 excerpt: >-
