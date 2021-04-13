@@ -1,8 +1,8 @@
 ---
 title: Kushagra
 subtitle: >-
-  Kushagra is the creator of multiple different BitClout ventures - including
-  cloutsights, which is a macOS menu bar app to track creator coins
+  ✨Creating @cloutsights, creatorsoffuture.com, cssbattle.dev, cone.app, and
+  unwind.to
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: >-
