@@ -21,8 +21,6 @@ seo:
       keyName: property
     - name: 'twitter:card'
       value: summary
-    - name: 'twitter:title'
-      value: gokhanyucel - DO YOU HAVE CLOUT
     - name: 'og:image'
       value: /images/77ZE4A4.gif
       keyName: property
