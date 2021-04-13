@@ -5,7 +5,9 @@ subtitle: >-
   (@bitcloutfollow)
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern
-excerpt: mubashariqbal
+excerpt: >-
+  Building Founderpath.com and working on too many side projects
+  (@bitcloutfollow)
 date: '2021-04-07'
 seo:
   title: mubashariqbal - DO YOU HAVE CLOUT
