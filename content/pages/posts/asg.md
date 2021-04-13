@@ -9,7 +9,7 @@ excerpt: >-
   anywhere (even bitclout).
 date: '2021-04-09'
 seo:
-  title: HPaulson - DO YOU HAVE CLOUT
+  title: ASG - DO YOU HAVE CLOUT
   description: >-
     1000 non-obvious marketing laws, principles, & tactics that can be applied
     anywhere (even bitclout).
