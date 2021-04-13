@@ -17,7 +17,7 @@ seo:
       value: article
       keyName: property
     - name: 'og:title'
-      value: gokhanyucel - DO YOU HAVE CLOUT
+      value: mubashariqbal - DO YOU HAVE CLOUT
       keyName: property
     - name: 'twitter:card'
       value: summary
