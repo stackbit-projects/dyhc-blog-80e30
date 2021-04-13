@@ -5,10 +5,7 @@ subtitle: >-
   (@bitcloutfollow)
 content_img_alt: lorem-ipsum
 thumb_img_alt: Geometric pattern
-excerpt: >-
-  Great art will always attract people & I am a magnet for anything that can be
-  considered art (from gifs to vintage science photos). I have been collecting
-  stuff for the last 10 years and perfecting the curation on BitClout.
+excerpt: mubashariqbal
 date: '2021-04-07'
 seo:
   title: mubashariqbal - DO YOU HAVE CLOUT
