@@ -23,7 +23,7 @@ seo:
     Artificial Intelligence researchers documenting & recreating high-impact
     work
 layout: post
-thumb_img_path: images/n2ecddu.png
+thumb_img_path: images/zuuiCC8.jpg
 ---
 [bitcloutAI at BitClout.com](https://bitclout.com/u/bitcloutai)
 
