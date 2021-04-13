@@ -1,6 +1,9 @@
 ---
 title: bitchama
-subtitle: "19\U0001F680| Public Speaker + Entrepreneur#Reinventing BitClout Economy"
+subtitle: >-
+  BitChama is the creator of @CloutTrack, currently the most reliable platform
+  to track your portfolio on a minute-by-minute basis. His tracking feature is
+  being used by 200 people despite launching a few days ago.
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: >-
