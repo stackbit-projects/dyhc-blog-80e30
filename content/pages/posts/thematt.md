@@ -11,8 +11,10 @@ date: '2021-04-11'
 seo:
   title: ASG - DO YOU HAVE CLOUT
   description: >-
-    1000 non-obvious marketing laws, principles, & tactics that can be applied
-    anywhere (even bitclout).
+    Matt was one of the creators of @bitperks, whom presented and received an
+    investment of $2k (into bitperks) during our event today. His goal is to
+    develop a platform to monetize creator coins as well as incentivizing coin
+    holding.
   extra:
     - name: 'og:type'
       value: article
