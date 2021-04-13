@@ -61,7 +61,7 @@ thumb_img_path: images/n2ecddu.png
 > Since I do have a following on Twitter and ProductHunt, I will leverage that reach to try and pull more users to BitClout.
 >
 
-\<br>
+<br>
 
 #### What plans do you have for your content and profile?
 
