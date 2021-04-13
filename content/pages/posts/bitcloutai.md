@@ -1,5 +1,5 @@
 ---
-title: mubashariqbal
+title: bitcloutAI
 subtitle: >-
   Building Founderpath.com and working on too many side projects
   (@bitcloutfollow)
