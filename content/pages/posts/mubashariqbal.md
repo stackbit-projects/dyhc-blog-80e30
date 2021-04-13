@@ -83,7 +83,7 @@ thumb_img_path: images/n2ecddu.png
 >
 > Otherwise I have no plans to sell any of my creator coin.
 
-\<br>
+<br>
 
 #### What are your areas of expertise and experience?
 
