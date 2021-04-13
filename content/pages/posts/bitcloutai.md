@@ -2,7 +2,6 @@
 title: bitcloutAI
 subtitle: Artificial Intelligence researchers documenting & recreating high-impact work
 content_img_alt: lorem-ipsum
-thumb_img_alt: Geometric pattern
 excerpt: >-
   Building Founderpath.com and working on too many side projects
   (@bitcloutfollow)
