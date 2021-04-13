@@ -7,7 +7,7 @@ excerpt: >-
   investment of $2k (into bitperks) during our event today. His goal is to
   develop a platform to monetize creator coins as well as incentivizing coin
   holding.
-date: '2021-04-09'
+date: '2021-04-11'
 seo:
   title: ASG - DO YOU HAVE CLOUT
   description: >-
