@@ -27,7 +27,7 @@ seo:
       keyName: property
       relativeUrl: true
 layout: post
-thumb_img_path: images/l07NJMK.png
+thumb_img_path: images/QFMbrmD.gif
 ---
 [kushagra at BitClout.com](https://bitclout.com/u/kushagra)
 
