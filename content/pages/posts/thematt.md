@@ -27,5 +27,10 @@ thumb_img_path: images/aFTzwSF.jpg
 ---
 [Matt1 at BitClout.com](https://bitclout.com/u/matt1)
 
-> Matt was one of the creators of[ @bitperks](https://bitclout.com/u/bitperks), whom presented and received an investment of $2k (into bitperks) during our event today. His goal is to develop a platform to monetize creator coins as well as incentivizing coin holding.
+> Matt was one of the creators of
+>
+> [ @bitperks](https://bitclout.com/u/bitperks)
+>
+> , whom presented and received an investment of $2k (into bitperks) during our event today. His goal is to develop a platform to monetize creator coins as well as incentivizing coin holding.
 
+![](/images/HIn4Sd5.png)
