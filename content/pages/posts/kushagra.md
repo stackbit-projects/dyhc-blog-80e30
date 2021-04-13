@@ -1,9 +1,8 @@
 ---
 title: Kushagra
 subtitle: >-
-  BitChama is the creator of @CloutTrack, currently the most reliable platform
-  to track your portfolio on a minute-by-minute basis. His tracking feature is
-  being used by 200 people despite launching a few days ago.
+  Kushagra is the creator of multiple different BitClout ventures - including
+  cloutsights, which is a macOS menu bar app to track creator coins
 content_img_alt: lorem-ipsum
 thumb_img_alt: lorem-ipsum
 excerpt: >-
