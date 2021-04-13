@@ -7,7 +7,7 @@ content_img_alt: lorem-ipsum
 excerpt: >-
   1000 non-obvious marketing laws, principles, & tactics that can be applied
   anywhere (even bitclout).
-date: '2021-04-30'
+date: '2021-04-09'
 seo:
   title: HPaulson - DO YOU HAVE CLOUT
   description: A technical force "hacking" the BitClout API
