@@ -17,9 +17,6 @@ seo:
     - name: 'og:type'
       value: article
       keyName: property
-    - name: 'og:description'
-      value: A technical force "hacking" the BitClout API
-      keyName: property
     - name: 'twitter:card'
       value: summary
     - name: 'twitter:title'
