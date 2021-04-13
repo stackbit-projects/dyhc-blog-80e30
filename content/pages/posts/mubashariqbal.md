@@ -29,10 +29,8 @@ seo:
       relativeUrl: true
     - name: 'og:description'
       value: >-
-        Great art will always attract people & I am a magnet for anything that
-        can be considered art (from gifs to vintage science photos). I have been
-        collecting stuff for the last 10 years and perfecting the curation on
-        BitClout.
+        Building Founderpath.com and working on too many side projects
+        (@bitcloutfollow)
       keyName: property
       relativeUrl: false
   description: >-
