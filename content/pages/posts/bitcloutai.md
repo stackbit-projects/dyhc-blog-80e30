@@ -20,8 +20,8 @@ seo:
       keyName: property
       relativeUrl: true
   description: >-
-    Building Founderpath.com and working on too many side projects
-    (@bitcloutfollow)
+    Artificial Intelligence researchers documenting & recreating high-impact
+    work
 layout: post
 thumb_img_path: images/n2ecddu.png
 ---
