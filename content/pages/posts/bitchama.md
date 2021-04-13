@@ -29,8 +29,7 @@ seo:
 layout: post
 thumb_img_path: images/HIn4Sd5.png
 ---
-[Matt1 at BitClout.com](https://bitclout.com/u/matt1)
+[bitchama at BitClout.com](https://bitclout.com/u/bitchama)
 
-> Matt was one of the creators of [@bitperks](https://bitclout.com/u/bitperks), whom presented and received an investment of $2k (into bitperks) during our event today. His goal is to develop a platform to monetize creator coins as well as incentivizing coin holding.
+> I am a founding developer of [@CloutTrack](https://bitclout.com/u/clouttrack): the fastest way to follow BitClout. We are building build a suite of trading tools such as real-time price tracker and DM price alerts. We consider "transparently" to be our priority which is a key for success BitClout!
 
-![](/images/HIn4Sd5.png)
