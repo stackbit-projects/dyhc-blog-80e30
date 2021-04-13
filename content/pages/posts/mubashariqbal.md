@@ -43,9 +43,9 @@ seo:
 layout: post
 thumb_img_path: images/77ZE4A4.gif
 ---
-[gokhanyucel at BitClout.com](https://bitclout.com/u/gokhanyucel)
+[mubashariqbal at BitClout.com](https://bitclout.com/u/mubashariqbal)
 
-![](/images/77ZE4A4.gif)
+![](/images/n2ecddu.png)
 
 <br>
 
@@ -55,45 +55,63 @@ thumb_img_path: images/77ZE4A4.gif
 
 #### When did you join BitClout?
 
-> 3-4 days ago
+> I'm excited with the possibility of a truly decentralized social media platform that incentives people to create high quality content and engage with other users in a positive way.
 
 <br>
 
 #### How long have you been doing this?
 
-> 10 years +
+> I started coding around the age of 8, gradated from University in 1996 and have been working in the industry ever since.
+> \>25 years
 
 <br>
 
 #### Do you have a following outside of BitClout?
 
-> 72.7K follower on Twitter ([@gokhanyucel](https://twitter.com/gokhanyucel))
+> I've been pretty active on both Twitter and ProductHunt for a number of years, same username as here.
 
 <br>
 
 #### How will you be working on expanding your reach here?
 
-> I believe that good curation will always attract people. Since my account is one of the first (decent) ones, the reaching will be done by high quality art selection. And when reclout  feature comes the effect will multiply.
+> Since I do have a following on Twitter and ProductHunt, I will leverage that reach to try and pull more users to BitClout.
+>
 
-![](/images/LStkTOd.gif)
-<br>
+\<br>
 
 #### What plans do you have for your content and profile?
 
-> I want this account to become "the curator" for the new age of social media. Especially with the dawn of NFTs, what we perceive as art will change drastically, I'd love the drive that change. It was damning to see "gif"s as merely fun toys while they were an art form all along.
+> I intended on building in public.  Sharing information on what/why/how I'm building things.  This has been a popular trend and has been attracting a lot followers.
 
 <br>
 
 #### How will you be providing value to your holders in the long term?
 
-> Even though I use this account for curation, I'm actually a creative director in real life (For example, this is one of my projects with 350K following: [YouTube AnatolianRockRevivalProject](https://www.youtube.com/c/AnatolianRockRevivalProject/featured)). I come up with new ideas & projects all the time. So, i don't think that this will be different for BitClout. I'll grasp and use the mechanics of this medium to turn it into a beautiful place. I believe that it will also have a positive impact on my account.
-
-![](/images/H2jGv6J.jpg)
+> As I build more tools, I will be giving priority access and share more detailed information with holders of my creator coin, and the creator coin of my projects.
 
 <br>
 
 #### Are you willing to hold your coin a long time or do you have plans to sell in some structured way to benefit from the influx of capital?
 
-> I'm in it for the long run. I believe this will be the future of social media.
+> Yeah I plan on holding for the long term, I'm not here for the speculating that some people are doing (which is very cool too!)
+>
+> If the valuation rises sufficiently I made sell small amounts to lock in funds, so that I can work exclusively on my projects. 
+>
+> Otherwise I have no plans to sell any of my creator coin.
 
-![](/images/IfTSO1u.gif)
+\<br>
+
+#### What are your areas of expertise and experience?
+
+> I'm a maker.  I've been making things for over 25 years. I'm comfortable with doing all the things required to take an idea and launch a functioning website/application in a very short amount of time.  See BitCloutFollow.com :)
+>
+> I've worked in the startup world, and at agencies, taking ideas and launching projects that have scaled to millions of monthly visitors.  I hope to do that same for my BitClout projects.
+
+\<br>
+
+#### Is there anything you need beyond investment to accomplish what you want?
+
+> I will be looking to work with other people on my projects, would love team members that are stronger than me, with the sales/marketing side of running projects.  
+>
+> Investors who can assist with this, or helping finding team members can, would be amazing.
+
