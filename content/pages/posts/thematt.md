@@ -22,7 +22,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'og:image'
-      value: /images/aFTzwSF.jpg
+      value: /images/HIn4Sd5.png
       keyName: property
       relativeUrl: true
 layout: post
