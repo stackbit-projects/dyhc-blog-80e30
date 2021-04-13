@@ -91,7 +91,7 @@ thumb_img_path: images/n2ecddu.png
 >
 > I've worked in the startup world, and at agencies, taking ideas and launching projects that have scaled to millions of monthly visitors.  I hope to do that same for my BitClout projects.
 
-\<br>
+<br>
 
 #### Is there anything you need beyond investment to accomplish what you want?
 
