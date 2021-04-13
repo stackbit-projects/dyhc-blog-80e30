@@ -12,9 +12,8 @@ date: '2021-04-13'
 seo:
   title: bitchama - DO YOU HAVE CLOUT
   description: >-
-    BitChama is the creator of @CloutTrack, currently the most reliable platform
-    to track your portfolio on a minute-by-minute basis. His tracking feature is
-    being used by 200 people despite launching a few days ago.
+    ✨Creating @cloutsights, creatorsoffuture.com, cssbattle.dev, cone.app, and
+    unwind.to
   extra:
     - name: 'og:type'
       value: article
