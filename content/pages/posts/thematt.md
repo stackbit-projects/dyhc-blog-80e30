@@ -23,7 +23,7 @@ seo:
       keyName: property
       relativeUrl: true
 layout: post
-thumb_img_path: images/aFTzwSF.jpg
+thumb_img_path: images/HIn4Sd5.png
 ---
 [Matt1 at BitClout.com](https://bitclout.com/u/matt1)
 
