@@ -9,7 +9,7 @@ excerpt: >-
   holding.
 date: '2021-04-11'
 seo:
-  title: ASG - DO YOU HAVE CLOUT
+  title: Matt1 - DO YOU HAVE CLOUT
   description: >-
     Matt was one of the creators of @bitperks, whom presented and received an
     investment of $2k (into bitperks) during our event today. His goal is to
