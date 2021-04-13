@@ -30,7 +30,7 @@ seo:
 layout: post
 thumb_img_path: images/l07NJMK.png
 ---
-[bitchama at BitClout.com](https://bitclout.com/u/bitchama)
+[BitChama at BitClout.com](https://bitclout.com/u/bitchama)
 
 > I am a founding developer of [@CloutTrack](https://bitclout.com/u/clouttrack): the fastest way to follow BitClout. We are building build a suite of trading tools such as real-time price tracker and DM price alerts. We consider "transparently" to be our priority which is a key for success BitClout!
 
