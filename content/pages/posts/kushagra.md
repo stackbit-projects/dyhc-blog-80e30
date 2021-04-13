@@ -21,7 +21,7 @@ seo:
     - name: 'twitter:card'
       value: summary
     - name: 'og:image'
-      value: /images/l07NJMK.png
+      value: /images/QFMbrmD.gif
       keyName: property
       relativeUrl: true
 layout: post
