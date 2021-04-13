@@ -2,9 +2,7 @@
 title: bitcloutAI
 subtitle: Artificial Intelligence researchers documenting & recreating high-impact work
 content_img_alt: lorem-ipsum
-excerpt: >-
-  Building Founderpath.com and working on too many side projects
-  (@bitcloutfollow)
+excerpt: Artificial Intelligence researchers documenting & recreating high-impact work
 date: '2021-04-10'
 seo:
   title: bitcloutAI - DO YOU HAVE CLOUT
