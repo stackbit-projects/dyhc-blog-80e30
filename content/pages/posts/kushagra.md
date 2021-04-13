@@ -4,7 +4,6 @@ subtitle: >-
   ✨Creating @cloutsights, creatorsoffuture.com, cssbattle.dev, cone.app, and
   unwind.to
 content_img_alt: lorem-ipsum
-thumb_img_alt: lorem-ipsum
 excerpt: >-
   BitChama is the creator of @CloutTrack, currently the most reliable platform
   to track your portfolio on a minute-by-minute basis. His tracking feature is
