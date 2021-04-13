@@ -74,7 +74,7 @@ thumb_img_path: images/zuuiCC8.jpg
 >
 > Currently evaluating the value of newsletter (4)
 
-
+![](/images/zuuiCC8.jpg)
 
 <br>
 
