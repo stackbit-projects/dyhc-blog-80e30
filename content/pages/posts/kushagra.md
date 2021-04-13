@@ -9,7 +9,7 @@ excerpt: >-
   BitChama is the creator of @CloutTrack, currently the most reliable platform
   to track your portfolio on a minute-by-minute basis. His tracking feature is
   being used by 200 people despite launching a few days ago.
-date: '2021-04-12'
+date: '2021-04-13'
 seo:
   title: bitchama - DO YOU HAVE CLOUT
   description: >-
